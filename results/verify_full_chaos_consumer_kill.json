@@ -1,0 +1,141 @@
+{
+  "lag": {
+    "sync": {
+      "canary_p50_ms": 756,
+      "canary_p95_ms": 1207,
+      "source_p95_ms": 1313,
+      "applied": 102109,
+      "dlq_count": 0,
+      "status_age_s": 4.8
+    },
+    "kafka": {
+      "messages_behind": 0,
+      "by_topic": {}
+    },
+    "slots": [
+      {
+        "slot": "migrator_slot",
+        "active": true,
+        "retained_bytes": 6362448,
+        "wal_status": "reserved"
+      }
+    ]
+  },
+  "counts": [
+    {
+      "check": "branches -> branches",
+      "pg": 50,
+      "mongo": 50,
+      "diff": 0
+    },
+    {
+      "check": "customers -> customers",
+      "pg": 11031,
+      "mongo": 11031,
+      "diff": 0
+    },
+    {
+      "check": "accounts -> accounts",
+      "pg": 15012,
+      "mongo": 15012,
+      "diff": 0
+    },
+    {
+      "check": "loans -> loans",
+      "pg": 3000,
+      "mongo": 3000,
+      "diff": 0
+    },
+    {
+      "check": "transactions -> transactions",
+      "pg": 235326,
+      "mongo": 235326,
+      "diff": 0
+    },
+    {
+      "check": "employees -> branches.employees[]",
+      "pg": 609,
+      "mongo": 609,
+      "diff": 0
+    },
+    {
+      "check": "addresses -> customers.addresses[]",
+      "pg": 16111,
+      "mongo": 16111,
+      "diff": 0
+    },
+    {
+      "check": "beneficiaries -> customers.beneficiaries[]",
+      "pg": 31291,
+      "mongo": 31291,
+      "diff": 0
+    },
+    {
+      "check": "cards -> accounts.cards[]",
+      "pg": 17463,
+      "mongo": 17463,
+      "diff": 0
+    },
+    {
+      "check": "loan_payments -> loans.payments[]",
+      "pg": 67226,
+      "mongo": 67226,
+      "diff": 0
+    },
+    {
+      "check": "account_holders -> customers.account_ids[]",
+      "pg": 17213,
+      "mongo": 17213,
+      "diff": 0
+    },
+    {
+      "check": "account_holders -> accounts.holders[]",
+      "pg": 17213,
+      "mongo": 17213,
+      "diff": 0
+    }
+  ],
+  "stubs": {},
+  "checksum": [
+    {
+      "collection": "branches",
+      "documents": 50,
+      "chunks": 1,
+      "bad_chunks": 0,
+      "mismatches": [],
+      "seconds": 0.02384349994827062
+    },
+    {
+      "collection": "customers",
+      "documents": 11031,
+      "chunks": 2,
+      "bad_chunks": 0,
+      "mismatches": [],
+      "seconds": 0.707239874987863
+    },
+    {
+      "collection": "accounts",
+      "documents": 15012,
+      "chunks": 2,
+      "bad_chunks": 0,
+      "mismatches": [],
+      "seconds": 0.9528550410177559
+    },
+    {
+      "collection": "loans",
+      "documents": 3000,
+      "chunks": 1,
+      "bad_chunks": 0,
+      "mismatches": [],
+      "seconds": 1.2307295419741422
+    },
+    {
+      "collection": "transactions",
+      "documents": 235326,
+      "chunks": 24,
+      "bad_chunks": 0,
+      "mismatches": [],
+      "seconds": 8.426767708035186
+    }
+  ]
+}

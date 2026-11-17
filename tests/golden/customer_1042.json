@@ -1,0 +1,40 @@
+{
+  "input": {
+    "collection": "customers",
+    "row": {"customer_id": 1042, "name": "Ananya Rao", "email": "ananya.rao@example.com",
+            "phone": "+919800000012", "dob": 10693, "kyc_status": "verified",
+            "created_at": "2024-01-09T10:22:31.512999Z"},
+    "lookups": {},
+    "children": {
+      "addresses": [
+        {"address_id": 5001, "customer_id": 1042, "type": "home", "line1": "12 MG Road", "city": "Pune", "state": "Maharashtra", "pincode": "411001"}
+      ],
+      "beneficiaries": [
+        {"beneficiary_id": 9001, "customer_id": 1042, "name": "Ravi Rao", "account_no": "100200300999", "ifsc": "BANK0000001", "added_at": "2025-03-01T00:00:00Z"}
+      ]
+    },
+    "joins": {
+      "account_ids": [
+        {"account_id": 3002, "customer_id": 1042, "role": "joint"},
+        {"account_id": 3001, "customer_id": 1042, "role": "primary"}
+      ]
+    }
+  },
+  "expected": {
+    "_id": 1042,
+    "name": "Ananya Rao",
+    "email": "ananya.rao@example.com",
+    "phone": "+919800000012",
+    "dob": {"$date": "1999-04-12T00:00:00Z"},
+    "kyc_status": "verified",
+    "created_at": {"$date": "2024-01-09T10:22:31.512Z"},
+    "addresses": [
+      {"address_id": 5001, "type": "home", "line1": "12 MG Road", "city": "Pune", "state": "Maharashtra", "pincode": "411001"}
+    ],
+    "beneficiaries": [
+      {"beneficiary_id": 9001, "name": "Ravi Rao", "account_no": "100200300999", "ifsc": "BANK0000001", "added_at": {"$date": "2025-03-01T00:00:00Z"}}
+    ],
+    "account_ids": [3001, 3002],
+    "_has_row": true
+  }
+}

@@ -1,0 +1,4283 @@
+{
+  "lag": {
+    "sync": {
+      "canary_p50_ms": null,
+      "canary_p95_ms": null,
+      "source_p95_ms": null,
+      "applied": 62605,
+      "dlq_count": 0,
+      "status_age_s": 0.7
+    },
+    "kafka": {
+      "messages_behind": 0,
+      "by_topic": {}
+    },
+    "slots": [
+      {
+        "slot": "migrator_slot",
+        "active": true,
+        "retained_bytes": 10688,
+        "wal_status": "reserved"
+      }
+    ]
+  },
+  "counts": [
+    {
+      "check": "branches -> branches",
+      "pg": 50,
+      "mongo": 50,
+      "diff": 0
+    },
+    {
+      "check": "customers -> customers",
+      "pg": 10345,
+      "mongo": 10345,
+      "diff": 0
+    },
+    {
+      "check": "accounts -> accounts",
+      "pg": 14326,
+      "mongo": 14326,
+      "diff": 0
+    },
+    {
+      "check": "loans -> loans",
+      "pg": 3000,
+      "mongo": 3000,
+      "diff": 0
+    },
+    {
+      "check": "transactions -> transactions",
+      "pg": 178796,
+      "mongo": 178796,
+      "diff": 0
+    },
+    {
+      "check": "employees -> branches.employees[]",
+      "pg": 609,
+      "mongo": 609,
+      "diff": 0
+    },
+    {
+      "check": "addresses -> customers.addresses[]",
+      "pg": 15425,
+      "mongo": 15425,
+      "diff": 0
+    },
+    {
+      "check": "beneficiaries -> customers.beneficiaries[]",
+      "pg": 29843,
+      "mongo": 29843,
+      "diff": 0
+    },
+    {
+      "check": "cards -> accounts.cards[]",
+      "pg": 17463,
+      "mongo": 17463,
+      "diff": 0
+    },
+    {
+      "check": "loan_payments -> loans.payments[]",
+      "pg": 67226,
+      "mongo": 67226,
+      "diff": 0
+    },
+    {
+      "check": "account_holders -> customers.account_ids[]",
+      "pg": 16527,
+      "mongo": 16527,
+      "diff": 0
+    },
+    {
+      "check": "account_holders -> accounts.holders[]",
+      "pg": 16527,
+      "mongo": 16527,
+      "diff": 0
+    }
+  ],
+  "stubs": {},
+  "checksum": [
+    {
+      "collection": "branches",
+      "documents": 50,
+      "chunks": 1,
+      "bad_chunks": 0,
+      "mismatches": [],
+      "seconds": 0.02545595809351653
+    },
+    {
+      "collection": "customers",
+      "documents": 10345,
+      "chunks": 2,
+      "bad_chunks": 1,
+      "mismatches": [
+        {
+          "_id": 10002,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10003,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10004,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10005,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10006,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10007,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10008,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10009,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10010,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10011,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10012,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10013,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10014,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10015,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10016,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10017,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10018,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10019,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10020,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10021,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10022,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10023,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10024,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10025,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10026,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10027,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10028,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10029,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10030,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10031,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10032,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10033,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10034,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10035,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10036,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10037,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10038,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10039,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10040,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10041,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10042,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10043,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10044,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10045,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10046,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10047,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10048,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10049,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10050,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10051,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10052,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10053,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10054,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10055,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10056,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10057,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10058,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10059,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10060,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10061,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10062,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10063,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10064,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10065,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10066,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10067,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10068,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10069,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10070,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10071,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10072,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10073,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10074,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10075,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10076,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10077,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10078,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10079,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10080,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10081,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10082,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10083,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10084,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10085,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10086,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10087,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10088,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10089,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10090,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10091,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10092,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10093,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10094,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10095,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10096,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10097,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10098,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10099,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10100,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10101,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10102,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10103,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10104,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10105,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10106,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10107,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10108,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10109,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10110,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10111,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10112,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10113,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10114,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10115,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10116,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10117,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10118,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10119,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10120,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10121,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10122,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10123,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10124,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10125,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10126,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10127,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10128,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10129,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10130,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10131,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10132,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10133,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10134,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10135,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10136,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10137,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10138,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10139,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10140,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10141,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10142,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10143,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10144,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10145,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10146,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10147,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10148,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10149,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10150,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10151,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10152,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10153,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10154,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10155,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10156,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10157,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10158,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10159,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10160,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10161,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10162,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10163,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10164,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10165,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10166,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10167,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10168,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10169,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10170,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10171,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10172,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10173,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10174,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10175,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10176,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10177,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10178,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10179,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10180,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10181,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10182,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10183,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10184,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10185,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10186,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10187,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10188,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10189,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10190,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10191,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10192,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10193,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10194,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10195,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10196,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10197,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10198,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10199,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10200,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10201,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10202,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10203,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10204,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10205,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10206,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10207,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10208,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10209,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10210,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10211,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10212,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10213,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10214,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10215,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10216,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10217,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10218,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10219,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10220,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10221,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10222,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10223,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10224,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10225,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10226,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10227,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10228,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10229,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10230,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10231,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10232,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10233,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10234,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10235,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10236,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10237,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10238,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10239,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10240,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10241,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10242,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10243,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10244,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10245,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10246,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10247,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10248,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10249,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10250,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10251,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10252,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10253,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10254,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10255,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10256,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10257,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10258,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10259,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10260,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10261,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10262,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10263,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10264,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10265,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10266,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10267,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10268,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10269,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10270,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10271,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10272,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10273,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10274,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10275,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10276,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10277,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10278,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10279,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10280,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10281,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10282,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10283,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10284,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10285,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10286,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10287,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10288,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10289,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10290,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10291,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10292,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10293,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10294,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10295,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10296,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10297,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10298,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10299,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10300,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10301,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10302,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10303,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10304,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10305,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10306,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10307,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10308,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10309,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10310,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10311,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10312,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10313,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10314,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10315,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10316,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10317,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10318,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10319,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10320,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10321,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10322,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10323,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10324,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10325,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10326,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10327,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10328,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10329,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10330,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10331,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10332,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10333,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10334,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10335,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10336,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10337,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10338,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10339,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10340,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10341,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10342,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10343,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10344,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10345,
+          "fields": [
+            "beneficiaries"
+          ]
+        },
+        {
+          "_id": 10346,
+          "fields": [
+            "beneficiaries"
+          ]
+        }
+      ],
+      "seconds": 0.7236997910076752
+    },
+    {
+      "collection": "accounts",
+      "documents": 14326,
+      "chunks": 2,
+      "bad_chunks": 1,
+      "mismatches": [
+        {
+          "_id": 13984,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 13985,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 13986,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 13987,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 13988,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 13989,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 13990,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 13991,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 13992,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 13993,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 13994,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 13995,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 13996,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 13997,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 13998,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 13999,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14000,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14001,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14002,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14003,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14004,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14005,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14006,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14007,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14008,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14009,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14010,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14011,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14012,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14013,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14014,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14015,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14016,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14017,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14018,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14019,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14020,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14021,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14022,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14023,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14024,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14025,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14026,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14027,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14028,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14029,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14030,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14031,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14032,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14033,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14034,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14035,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14036,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14037,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14038,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14039,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14040,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14041,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14042,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14043,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14044,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14045,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14046,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14047,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14048,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14049,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14050,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14051,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14052,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14053,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14054,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14055,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14056,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14057,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14058,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14059,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14060,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14061,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14062,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14063,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14064,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14065,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14066,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14067,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14068,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14069,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14070,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14071,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14072,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14073,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14074,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14075,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14076,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14077,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14078,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14079,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14080,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14081,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14082,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14083,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14084,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14085,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14086,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14087,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14088,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14089,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14090,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14091,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14092,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14093,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14094,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14095,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14096,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14097,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14098,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14099,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14100,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14101,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14102,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14103,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14104,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14105,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14106,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14107,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14108,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14109,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14110,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14111,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14112,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14113,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14114,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14115,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14116,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14117,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14118,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14119,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14120,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14121,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14122,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14123,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14124,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14125,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14126,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14127,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14128,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14129,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14130,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14131,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14132,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14133,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14134,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14135,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14136,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14137,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14138,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14139,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14140,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14141,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14142,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14143,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14144,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14145,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14146,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14147,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14148,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14149,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14150,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14151,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14152,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14153,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14154,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14155,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14156,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14157,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14158,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14159,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14160,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14161,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14162,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14163,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14164,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14165,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14166,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14167,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14168,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14169,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14170,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14171,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14172,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14173,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14174,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14175,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14176,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14177,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14178,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14179,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14180,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14181,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14182,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14183,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14184,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14185,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14186,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14187,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14188,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14189,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14190,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14191,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14192,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14193,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14194,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14195,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14196,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14197,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14198,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14199,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14200,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14201,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14202,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14203,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14204,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14205,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14206,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14207,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14208,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14209,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14210,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14211,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14212,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14213,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14214,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14215,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14216,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14217,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14218,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14219,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14220,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14221,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14222,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14223,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14224,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14225,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14226,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14227,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14228,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14229,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14230,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14231,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14232,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14233,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14234,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14235,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14236,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14237,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14238,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14239,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14240,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14241,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14242,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14243,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14244,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14245,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14246,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14247,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14248,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14249,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14250,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14251,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14252,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14253,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14254,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14255,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14256,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14257,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14258,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14259,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14260,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14261,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14262,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14263,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14264,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14265,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14266,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14267,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14268,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14269,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14270,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14271,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14272,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14273,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14274,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14275,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14276,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14277,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14278,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14279,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14280,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14281,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14282,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14283,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14284,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14285,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14286,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14287,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14288,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14289,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14290,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14291,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14292,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14293,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14294,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14295,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14296,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14297,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14298,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14299,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14300,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14301,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14302,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14303,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14304,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14305,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14306,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14307,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14308,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14309,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14310,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14311,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14312,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14313,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14314,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14315,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14316,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14317,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14318,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14319,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14320,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14321,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14322,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14323,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14324,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14325,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14326,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14327,
+          "fields": [
+            "cards"
+          ]
+        },
+        {
+          "_id": 14328,
+          "fields": [
+            "cards"
+          ]
+        }
+      ],
+      "seconds": 0.9574404580052942
+    },
+    {
+      "collection": "loans",
+      "documents": 3000,
+      "chunks": 1,
+      "bad_chunks": 0,
+      "mismatches": [],
+      "seconds": 1.3325040829367936
+    },
+    {
+      "collection": "transactions",
+      "documents": 178796,
+      "chunks": 18,
+      "bad_chunks": 0,
+      "mismatches": [],
+      "seconds": 6.486882291967049
+    }
+  ]
+}

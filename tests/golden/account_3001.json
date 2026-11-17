@@ -1,0 +1,41 @@
+{
+  "input": {
+    "collection": "accounts",
+    "row": {"account_id": 3001, "account_no": "100200300400", "type_id": 1, "branch_id": 7,
+            "balance": "45210.50", "status": "active", "opened_at": "2024-01-09T10:22:31.512345Z"},
+    "lookups": {
+      "account_types": {"1": {"type_id": 1, "code": "SAV", "name": "Savings", "interest_rate": "3.50", "min_balance": "1000.00"}},
+      "branches": {"7": {"branch_id": 7, "code": "PUN07", "name": "Pune Camp", "city": "Pune", "ifsc": "BANK0000007", "opened_on": 11000}}
+    },
+    "children": {
+      "cards": [
+        {"card_id": 8002, "account_id": 3001, "last4": "0007", "network": "visa", "expires_on": 20819, "status": "blocked"},
+        {"card_id": 8001, "account_id": 3001, "last4": "4821", "network": "rupay", "expires_on": 20454, "status": "active"}
+      ]
+    },
+    "joins": {
+      "holders": [
+        {"account_id": 3001, "customer_id": 1077, "role": "joint"},
+        {"account_id": 3001, "customer_id": 1042, "role": "primary"}
+      ]
+    }
+  },
+  "expected": {
+    "_id": 3001,
+    "account_no": "100200300400",
+    "balance": {"$numberDecimal": "45210.50"},
+    "status": "active",
+    "opened_at": {"$date": "2024-01-09T10:22:31.512Z"},
+    "type": {"type_id": 1, "code": "SAV", "name": "Savings", "interest_rate": {"$numberDecimal": "3.50"}},
+    "branch": {"branch_id": 7, "code": "PUN07", "name": "Pune Camp", "ifsc": "BANK0000007"},
+    "cards": [
+      {"card_id": 8001, "last4": "4821", "network": "rupay", "expires_on": {"$date": "2026-01-01T00:00:00Z"}, "status": "active"},
+      {"card_id": 8002, "last4": "0007", "network": "visa", "expires_on": {"$date": "2027-01-01T00:00:00Z"}, "status": "blocked"}
+    ],
+    "holders": [
+      {"customer_id": 1042, "role": "primary"},
+      {"customer_id": 1077, "role": "joint"}
+    ],
+    "_has_row": true
+  }
+}

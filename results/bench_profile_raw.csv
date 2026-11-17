@@ -1,0 +1,2401 @@
+label,rep,variant,customer_id,ms
+localhost,1,PostgreSQL A: one 10-table join,687,0.2354
+localhost,1,PostgreSQL A: one 10-table join,9756,0.3573
+localhost,1,PostgreSQL A: one 10-table join,6491,0.2166
+localhost,1,PostgreSQL A: one 10-table join,7422,0.9551
+localhost,1,PostgreSQL A: one 10-table join,10714,0.2123
+localhost,1,PostgreSQL A: one 10-table join,10086,0.172
+localhost,1,PostgreSQL A: one 10-table join,10651,0.1819
+localhost,1,PostgreSQL A: one 10-table join,2581,0.2083
+localhost,1,PostgreSQL A: one 10-table join,10210,0.1767
+localhost,1,PostgreSQL A: one 10-table join,246,0.2778
+localhost,1,PostgreSQL A: one 10-table join,8657,0.2193
+localhost,1,PostgreSQL A: one 10-table join,1035,2.3015
+localhost,1,PostgreSQL A: one 10-table join,976,0.5955
+localhost,1,PostgreSQL A: one 10-table join,585,3.9476
+localhost,1,PostgreSQL A: one 10-table join,3117,0.3117
+localhost,1,PostgreSQL A: one 10-table join,3964,0.2433
+localhost,1,PostgreSQL A: one 10-table join,9825,0.2574
+localhost,1,PostgreSQL A: one 10-table join,493,1.532
+localhost,1,PostgreSQL A: one 10-table join,7602,4.4416
+localhost,1,PostgreSQL A: one 10-table join,5346,2.4238
+localhost,1,PostgreSQL A: one 10-table join,7218,0.8238
+localhost,1,PostgreSQL A: one 10-table join,9683,0.2258
+localhost,1,PostgreSQL A: one 10-table join,3201,0.2344
+localhost,1,PostgreSQL A: one 10-table join,8506,0.2254
+localhost,1,PostgreSQL A: one 10-table join,3829,0.2088
+localhost,1,PostgreSQL A: one 10-table join,10491,0.1877
+localhost,1,PostgreSQL A: one 10-table join,4820,29.3426
+localhost,1,PostgreSQL A: one 10-table join,8189,1.5119
+localhost,1,PostgreSQL A: one 10-table join,76,2.402
+localhost,1,PostgreSQL A: one 10-table join,10854,0.2183
+localhost,1,PostgreSQL A: one 10-table join,1393,0.2298
+localhost,1,PostgreSQL A: one 10-table join,7493,0.4134
+localhost,1,PostgreSQL A: one 10-table join,10729,0.1949
+localhost,1,PostgreSQL A: one 10-table join,4558,0.3388
+localhost,1,PostgreSQL A: one 10-table join,6665,0.3596
+localhost,1,PostgreSQL A: one 10-table join,9032,0.491
+localhost,1,PostgreSQL A: one 10-table join,1364,0.2697
+localhost,1,PostgreSQL A: one 10-table join,4162,1.7447
+localhost,1,PostgreSQL A: one 10-table join,5166,0.2786
+localhost,1,PostgreSQL A: one 10-table join,3763,0.6189
+localhost,1,PostgreSQL A: one 10-table join,8404,1.7528
+localhost,1,PostgreSQL A: one 10-table join,4736,0.3016
+localhost,1,PostgreSQL A: one 10-table join,488,0.2943
+localhost,1,PostgreSQL A: one 10-table join,1151,0.3011
+localhost,1,PostgreSQL A: one 10-table join,9227,0.1899
+localhost,1,PostgreSQL A: one 10-table join,1769,0.3233
+localhost,1,PostgreSQL A: one 10-table join,6561,0.1999
+localhost,1,PostgreSQL A: one 10-table join,1767,0.1988
+localhost,1,PostgreSQL A: one 10-table join,4767,0.2395
+localhost,1,PostgreSQL A: one 10-table join,6333,0.2418
+localhost,1,PostgreSQL A: one 10-table join,1095,2.3447
+localhost,1,PostgreSQL A: one 10-table join,277,0.3582
+localhost,1,PostgreSQL A: one 10-table join,9,0.4061
+localhost,1,PostgreSQL A: one 10-table join,3499,0.5812
+localhost,1,PostgreSQL A: one 10-table join,3437,0.265
+localhost,1,PostgreSQL A: one 10-table join,858,0.2018
+localhost,1,PostgreSQL A: one 10-table join,7701,0.261
+localhost,1,PostgreSQL A: one 10-table join,6152,0.3056
+localhost,1,PostgreSQL A: one 10-table join,6512,0.219
+localhost,1,PostgreSQL A: one 10-table join,6878,1.2174
+localhost,1,PostgreSQL A: one 10-table join,1197,0.194
+localhost,1,PostgreSQL A: one 10-table join,9278,1.6502
+localhost,1,PostgreSQL A: one 10-table join,10313,0.1938
+localhost,1,PostgreSQL A: one 10-table join,3253,0.3083
+localhost,1,PostgreSQL A: one 10-table join,4421,0.2653
+localhost,1,PostgreSQL A: one 10-table join,5520,0.721
+localhost,1,PostgreSQL A: one 10-table join,1428,1.8347
+localhost,1,PostgreSQL A: one 10-table join,5099,0.2669
+localhost,1,PostgreSQL A: one 10-table join,5450,5.6689
+localhost,1,PostgreSQL A: one 10-table join,249,0.2132
+localhost,1,PostgreSQL A: one 10-table join,6719,0.3758
+localhost,1,PostgreSQL A: one 10-table join,1934,0.2557
+localhost,1,PostgreSQL A: one 10-table join,2206,0.3315
+localhost,1,PostgreSQL A: one 10-table join,4037,0.204
+localhost,1,PostgreSQL A: one 10-table join,1656,0.2708
+localhost,1,PostgreSQL A: one 10-table join,180,0.9943
+localhost,1,PostgreSQL A: one 10-table join,982,1.3185
+localhost,1,PostgreSQL A: one 10-table join,7618,0.3664
+localhost,1,PostgreSQL A: one 10-table join,7977,0.2238
+localhost,1,PostgreSQL A: one 10-table join,2912,0.2867
+localhost,1,PostgreSQL A: one 10-table join,9164,0.1842
+localhost,1,PostgreSQL A: one 10-table join,3087,0.2092
+localhost,1,PostgreSQL A: one 10-table join,7331,2.6044
+localhost,1,PostgreSQL A: one 10-table join,8338,2.0733
+localhost,1,PostgreSQL A: one 10-table join,3125,0.8049
+localhost,1,PostgreSQL A: one 10-table join,2146,0.1863
+localhost,1,PostgreSQL A: one 10-table join,6869,0.3224
+localhost,1,PostgreSQL A: one 10-table join,10547,0.218
+localhost,1,PostgreSQL A: one 10-table join,6288,0.2294
+localhost,1,PostgreSQL A: one 10-table join,1909,0.2797
+localhost,1,PostgreSQL A: one 10-table join,6470,0.273
+localhost,1,PostgreSQL A: one 10-table join,6894,1.8368
+localhost,1,PostgreSQL A: one 10-table join,3488,0.3154
+localhost,1,PostgreSQL A: one 10-table join,8,1.161
+localhost,1,PostgreSQL A: one 10-table join,4421,0.2719
+localhost,1,PostgreSQL A: one 10-table join,9712,1.8525
+localhost,1,PostgreSQL A: one 10-table join,4984,0.2775
+localhost,1,PostgreSQL A: one 10-table join,322,0.2985
+localhost,1,PostgreSQL A: one 10-table join,3453,0.2067
+localhost,1,PostgreSQL A: one 10-table join,3069,0.256
+localhost,1,PostgreSQL A: one 10-table join,6460,0.1943
+localhost,1,PostgreSQL A: one 10-table join,9864,0.5572
+localhost,1,PostgreSQL A: one 10-table join,10516,0.1728
+localhost,1,PostgreSQL A: one 10-table join,9453,0.2257
+localhost,1,PostgreSQL A: one 10-table join,1644,0.2113
+localhost,1,PostgreSQL A: one 10-table join,690,0.24
+localhost,1,PostgreSQL A: one 10-table join,2398,2.1684
+localhost,1,PostgreSQL A: one 10-table join,3494,0.2728
+localhost,1,PostgreSQL A: one 10-table join,7235,0.2811
+localhost,1,PostgreSQL A: one 10-table join,4232,3.51
+localhost,1,PostgreSQL A: one 10-table join,157,10.3397
+localhost,1,PostgreSQL A: one 10-table join,10000,0.4337
+localhost,1,PostgreSQL A: one 10-table join,5390,0.2342
+localhost,1,PostgreSQL A: one 10-table join,4855,0.271
+localhost,1,PostgreSQL A: one 10-table join,6328,0.1982
+localhost,1,PostgreSQL A: one 10-table join,1203,1.025
+localhost,1,PostgreSQL A: one 10-table join,1218,0.4505
+localhost,1,PostgreSQL A: one 10-table join,1477,0.1804
+localhost,1,PostgreSQL A: one 10-table join,3420,0.1999
+localhost,1,PostgreSQL A: one 10-table join,9548,1.3517
+localhost,1,PostgreSQL A: one 10-table join,10430,0.176
+localhost,1,PostgreSQL A: one 10-table join,3982,0.2984
+localhost,1,PostgreSQL A: one 10-table join,255,0.3309
+localhost,1,PostgreSQL A: one 10-table join,9852,0.1897
+localhost,1,PostgreSQL A: one 10-table join,6041,0.2254
+localhost,1,PostgreSQL A: one 10-table join,6090,1.8921
+localhost,1,PostgreSQL A: one 10-table join,10194,0.1746
+localhost,1,PostgreSQL A: one 10-table join,7426,0.1912
+localhost,1,PostgreSQL A: one 10-table join,2085,0.213
+localhost,1,PostgreSQL A: one 10-table join,9622,0.2388
+localhost,1,PostgreSQL A: one 10-table join,7926,0.1887
+localhost,1,PostgreSQL A: one 10-table join,9414,0.7891
+localhost,1,PostgreSQL A: one 10-table join,2224,0.2183
+localhost,1,PostgreSQL A: one 10-table join,6326,0.3897
+localhost,1,PostgreSQL A: one 10-table join,2996,0.792
+localhost,1,PostgreSQL A: one 10-table join,10277,0.16
+localhost,1,PostgreSQL A: one 10-table join,2526,0.3555
+localhost,1,PostgreSQL A: one 10-table join,5093,0.3808
+localhost,1,PostgreSQL A: one 10-table join,3742,0.2858
+localhost,1,PostgreSQL A: one 10-table join,10002,0.153
+localhost,1,PostgreSQL A: one 10-table join,4088,0.1871
+localhost,1,PostgreSQL A: one 10-table join,3110,1.3297
+localhost,1,PostgreSQL A: one 10-table join,2597,0.225
+localhost,1,PostgreSQL A: one 10-table join,10306,0.1514
+localhost,1,PostgreSQL A: one 10-table join,9076,0.2436
+localhost,1,PostgreSQL A: one 10-table join,3221,0.2058
+localhost,1,PostgreSQL A: one 10-table join,6361,0.4787
+localhost,1,PostgreSQL A: one 10-table join,7906,0.1823
+localhost,1,PostgreSQL A: one 10-table join,9889,0.1481
+localhost,1,PostgreSQL A: one 10-table join,1287,0.7746
+localhost,1,PostgreSQL A: one 10-table join,6906,2.0882
+localhost,1,PostgreSQL A: one 10-table join,777,0.1898
+localhost,1,PostgreSQL A: one 10-table join,1702,0.2204
+localhost,1,PostgreSQL A: one 10-table join,1787,0.4116
+localhost,1,PostgreSQL A: one 10-table join,635,0.1568
+localhost,1,PostgreSQL A: one 10-table join,8395,2.9938
+localhost,1,PostgreSQL A: one 10-table join,4181,0.2604
+localhost,1,PostgreSQL A: one 10-table join,3907,0.2588
+localhost,1,PostgreSQL A: one 10-table join,6417,0.2164
+localhost,1,PostgreSQL A: one 10-table join,4211,0.1803
+localhost,1,PostgreSQL A: one 10-table join,6895,1.8802
+localhost,1,PostgreSQL A: one 10-table join,9773,0.1916
+localhost,1,PostgreSQL A: one 10-table join,8045,0.307
+localhost,1,PostgreSQL A: one 10-table join,4808,0.5258
+localhost,1,PostgreSQL A: one 10-table join,8521,0.2467
+localhost,1,PostgreSQL A: one 10-table join,2875,0.5134
+localhost,1,PostgreSQL A: one 10-table join,1127,0.1811
+localhost,1,PostgreSQL A: one 10-table join,2071,0.4068
+localhost,1,PostgreSQL A: one 10-table join,3743,9.169
+localhost,1,PostgreSQL A: one 10-table join,7853,0.3038
+localhost,1,PostgreSQL A: one 10-table join,9165,0.2935
+localhost,1,PostgreSQL A: one 10-table join,10708,0.189
+localhost,1,PostgreSQL A: one 10-table join,10091,0.1904
+localhost,1,PostgreSQL A: one 10-table join,10065,0.1734
+localhost,1,PostgreSQL A: one 10-table join,1215,0.458
+localhost,1,PostgreSQL A: one 10-table join,4592,0.2794
+localhost,1,PostgreSQL A: one 10-table join,3480,1.2275
+localhost,1,PostgreSQL A: one 10-table join,3342,0.5437
+localhost,1,PostgreSQL A: one 10-table join,272,0.2251
+localhost,1,PostgreSQL A: one 10-table join,1134,0.2282
+localhost,1,PostgreSQL A: one 10-table join,4411,0.2535
+localhost,1,PostgreSQL A: one 10-table join,6741,0.2569
+localhost,1,PostgreSQL A: one 10-table join,7303,0.2582
+localhost,1,PostgreSQL A: one 10-table join,4081,0.3091
+localhost,1,PostgreSQL A: one 10-table join,991,0.2273
+localhost,1,PostgreSQL A: one 10-table join,764,0.1864
+localhost,1,PostgreSQL A: one 10-table join,2888,0.2941
+localhost,1,PostgreSQL A: one 10-table join,4620,0.2594
+localhost,1,PostgreSQL A: one 10-table join,6043,0.449
+localhost,1,PostgreSQL A: one 10-table join,8700,2.3825
+localhost,1,PostgreSQL A: one 10-table join,9375,0.207
+localhost,1,PostgreSQL A: one 10-table join,2156,0.3291
+localhost,1,PostgreSQL A: one 10-table join,1511,0.2036
+localhost,1,PostgreSQL A: one 10-table join,5934,0.8822
+localhost,1,PostgreSQL A: one 10-table join,2268,2.1052
+localhost,1,PostgreSQL A: one 10-table join,7379,0.2974
+localhost,1,PostgreSQL A: one 10-table join,5423,0.5735
+localhost,1,PostgreSQL A: one 10-table join,10764,0.1812
+localhost,1,PostgreSQL A: one 10-table join,8552,0.257
+localhost,1,PostgreSQL A: one 10-table join,9576,1.0633
+localhost,1,PostgreSQL B: 7 queries,687,0.8592
+localhost,1,PostgreSQL B: 7 queries,9756,0.8884
+localhost,1,PostgreSQL B: 7 queries,6491,0.9435
+localhost,1,PostgreSQL B: 7 queries,7422,0.9377
+localhost,1,PostgreSQL B: 7 queries,10714,0.9134
+localhost,1,PostgreSQL B: 7 queries,10086,0.8571
+localhost,1,PostgreSQL B: 7 queries,10651,0.8907
+localhost,1,PostgreSQL B: 7 queries,2581,0.8722
+localhost,1,PostgreSQL B: 7 queries,10210,0.8561
+localhost,1,PostgreSQL B: 7 queries,246,0.8838
+localhost,1,PostgreSQL B: 7 queries,8657,0.8856
+localhost,1,PostgreSQL B: 7 queries,1035,0.9434
+localhost,1,PostgreSQL B: 7 queries,976,0.9493
+localhost,1,PostgreSQL B: 7 queries,585,0.8959
+localhost,1,PostgreSQL B: 7 queries,3117,0.9131
+localhost,1,PostgreSQL B: 7 queries,3964,0.8704
+localhost,1,PostgreSQL B: 7 queries,9825,0.908
+localhost,1,PostgreSQL B: 7 queries,493,0.9163
+localhost,1,PostgreSQL B: 7 queries,7602,0.913
+localhost,1,PostgreSQL B: 7 queries,5346,0.951
+localhost,1,PostgreSQL B: 7 queries,7218,0.939
+localhost,1,PostgreSQL B: 7 queries,9683,0.8847
+localhost,1,PostgreSQL B: 7 queries,3201,0.9066
+localhost,1,PostgreSQL B: 7 queries,8506,0.8727
+localhost,1,PostgreSQL B: 7 queries,3829,0.8692
+localhost,1,PostgreSQL B: 7 queries,10491,0.8519
+localhost,1,PostgreSQL B: 7 queries,4820,0.9503
+localhost,1,PostgreSQL B: 7 queries,8189,0.9494
+localhost,1,PostgreSQL B: 7 queries,76,0.9513
+localhost,1,PostgreSQL B: 7 queries,10854,0.8705
+localhost,1,PostgreSQL B: 7 queries,1393,0.8979
+localhost,1,PostgreSQL B: 7 queries,7493,0.9133
+localhost,1,PostgreSQL B: 7 queries,10729,0.8448
+localhost,1,PostgreSQL B: 7 queries,4558,0.8978
+localhost,1,PostgreSQL B: 7 queries,6665,0.8882
+localhost,1,PostgreSQL B: 7 queries,9032,0.9451
+localhost,1,PostgreSQL B: 7 queries,1364,1.0483
+localhost,1,PostgreSQL B: 7 queries,4162,1.0291
+localhost,1,PostgreSQL B: 7 queries,5166,0.9161
+localhost,1,PostgreSQL B: 7 queries,3763,1.5526
+localhost,1,PostgreSQL B: 7 queries,8404,1.0742
+localhost,1,PostgreSQL B: 7 queries,4736,1.092
+localhost,1,PostgreSQL B: 7 queries,488,0.9811
+localhost,1,PostgreSQL B: 7 queries,1151,1.0936
+localhost,1,PostgreSQL B: 7 queries,9227,0.963
+localhost,1,PostgreSQL B: 7 queries,1769,0.8737
+localhost,1,PostgreSQL B: 7 queries,6561,1.0068
+localhost,1,PostgreSQL B: 7 queries,1767,1.104
+localhost,1,PostgreSQL B: 7 queries,4767,1.155
+localhost,1,PostgreSQL B: 7 queries,6333,1.0533
+localhost,1,PostgreSQL B: 7 queries,1095,1.1402
+localhost,1,PostgreSQL B: 7 queries,277,0.8582
+localhost,1,PostgreSQL B: 7 queries,9,0.7486
+localhost,1,PostgreSQL B: 7 queries,3499,0.8393
+localhost,1,PostgreSQL B: 7 queries,3437,0.6981
+localhost,1,PostgreSQL B: 7 queries,858,0.7086
+localhost,1,PostgreSQL B: 7 queries,7701,0.715
+localhost,1,PostgreSQL B: 7 queries,6152,0.8923
+localhost,1,PostgreSQL B: 7 queries,6512,0.9556
+localhost,1,PostgreSQL B: 7 queries,6878,0.9583
+localhost,1,PostgreSQL B: 7 queries,1197,0.9144
+localhost,1,PostgreSQL B: 7 queries,9278,0.9424
+localhost,1,PostgreSQL B: 7 queries,10313,0.9161
+localhost,1,PostgreSQL B: 7 queries,3253,0.9171
+localhost,1,PostgreSQL B: 7 queries,4421,0.894
+localhost,1,PostgreSQL B: 7 queries,5520,1.0017
+localhost,1,PostgreSQL B: 7 queries,1428,1.2161
+localhost,1,PostgreSQL B: 7 queries,5099,0.9864
+localhost,1,PostgreSQL B: 7 queries,5450,0.9749
+localhost,1,PostgreSQL B: 7 queries,249,0.914
+localhost,1,PostgreSQL B: 7 queries,6719,0.9356
+localhost,1,PostgreSQL B: 7 queries,1934,0.9574
+localhost,1,PostgreSQL B: 7 queries,2206,0.9122
+localhost,1,PostgreSQL B: 7 queries,4037,0.922
+localhost,1,PostgreSQL B: 7 queries,1656,0.9424
+localhost,1,PostgreSQL B: 7 queries,180,1.0285
+localhost,1,PostgreSQL B: 7 queries,982,0.9728
+localhost,1,PostgreSQL B: 7 queries,7618,0.9277
+localhost,1,PostgreSQL B: 7 queries,7977,0.9082
+localhost,1,PostgreSQL B: 7 queries,2912,0.8933
+localhost,1,PostgreSQL B: 7 queries,9164,0.9001
+localhost,1,PostgreSQL B: 7 queries,3087,1.029
+localhost,1,PostgreSQL B: 7 queries,7331,1.1005
+localhost,1,PostgreSQL B: 7 queries,8338,1.04
+localhost,1,PostgreSQL B: 7 queries,3125,0.9393
+localhost,1,PostgreSQL B: 7 queries,2146,0.9169
+localhost,1,PostgreSQL B: 7 queries,6869,0.9149
+localhost,1,PostgreSQL B: 7 queries,10547,0.8708
+localhost,1,PostgreSQL B: 7 queries,6288,0.8892
+localhost,1,PostgreSQL B: 7 queries,1909,0.8735
+localhost,1,PostgreSQL B: 7 queries,6470,0.892
+localhost,1,PostgreSQL B: 7 queries,6894,0.9515
+localhost,1,PostgreSQL B: 7 queries,3488,0.8905
+localhost,1,PostgreSQL B: 7 queries,8,0.9237
+localhost,1,PostgreSQL B: 7 queries,4421,0.9298
+localhost,1,PostgreSQL B: 7 queries,9712,0.8912
+localhost,1,PostgreSQL B: 7 queries,4984,0.8662
+localhost,1,PostgreSQL B: 7 queries,322,0.8765
+localhost,1,PostgreSQL B: 7 queries,3453,0.8477
+localhost,1,PostgreSQL B: 7 queries,3069,0.8643
+localhost,1,PostgreSQL B: 7 queries,6460,0.8553
+localhost,1,PostgreSQL B: 7 queries,9864,0.9873
+localhost,1,PostgreSQL B: 7 queries,10516,0.9312
+localhost,1,PostgreSQL B: 7 queries,9453,0.9639
+localhost,1,PostgreSQL B: 7 queries,1644,0.8842
+localhost,1,PostgreSQL B: 7 queries,690,0.9142
+localhost,1,PostgreSQL B: 7 queries,2398,0.9402
+localhost,1,PostgreSQL B: 7 queries,3494,0.8922
+localhost,1,PostgreSQL B: 7 queries,7235,0.8979
+localhost,1,PostgreSQL B: 7 queries,4232,0.9196
+localhost,1,PostgreSQL B: 7 queries,157,1.0127
+localhost,1,PostgreSQL B: 7 queries,10000,0.9158
+localhost,1,PostgreSQL B: 7 queries,5390,0.9001
+localhost,1,PostgreSQL B: 7 queries,4855,0.9189
+localhost,1,PostgreSQL B: 7 queries,6328,0.9197
+localhost,1,PostgreSQL B: 7 queries,1203,0.9614
+localhost,1,PostgreSQL B: 7 queries,1218,0.9341
+localhost,1,PostgreSQL B: 7 queries,1477,0.8922
+localhost,1,PostgreSQL B: 7 queries,3420,0.8776
+localhost,1,PostgreSQL B: 7 queries,9548,0.949
+localhost,1,PostgreSQL B: 7 queries,10430,0.8988
+localhost,1,PostgreSQL B: 7 queries,3982,0.8977
+localhost,1,PostgreSQL B: 7 queries,255,0.9151
+localhost,1,PostgreSQL B: 7 queries,9852,0.9098
+localhost,1,PostgreSQL B: 7 queries,6041,0.9568
+localhost,1,PostgreSQL B: 7 queries,6090,0.9874
+localhost,1,PostgreSQL B: 7 queries,10194,0.9172
+localhost,1,PostgreSQL B: 7 queries,7426,0.9232
+localhost,1,PostgreSQL B: 7 queries,2085,0.9333
+localhost,1,PostgreSQL B: 7 queries,9622,0.9338
+localhost,1,PostgreSQL B: 7 queries,7926,0.9191
+localhost,1,PostgreSQL B: 7 queries,9414,0.9374
+localhost,1,PostgreSQL B: 7 queries,2224,0.9018
+localhost,1,PostgreSQL B: 7 queries,6326,0.911
+localhost,1,PostgreSQL B: 7 queries,2996,0.9301
+localhost,1,PostgreSQL B: 7 queries,10277,0.8568
+localhost,1,PostgreSQL B: 7 queries,2526,0.8902
+localhost,1,PostgreSQL B: 7 queries,5093,0.8913
+localhost,1,PostgreSQL B: 7 queries,3742,0.9512
+localhost,1,PostgreSQL B: 7 queries,10002,0.8817
+localhost,1,PostgreSQL B: 7 queries,4088,0.876
+localhost,1,PostgreSQL B: 7 queries,3110,0.9197
+localhost,1,PostgreSQL B: 7 queries,2597,0.8773
+localhost,1,PostgreSQL B: 7 queries,10306,0.889
+localhost,1,PostgreSQL B: 7 queries,9076,0.8582
+localhost,1,PostgreSQL B: 7 queries,3221,0.8658
+localhost,1,PostgreSQL B: 7 queries,6361,0.8957
+localhost,1,PostgreSQL B: 7 queries,7906,0.9049
+localhost,1,PostgreSQL B: 7 queries,9889,0.8814
+localhost,1,PostgreSQL B: 7 queries,1287,0.9708
+localhost,1,PostgreSQL B: 7 queries,6906,0.9455
+localhost,1,PostgreSQL B: 7 queries,777,0.8928
+localhost,1,PostgreSQL B: 7 queries,1702,0.8763
+localhost,1,PostgreSQL B: 7 queries,1787,0.8862
+localhost,1,PostgreSQL B: 7 queries,635,0.8974
+localhost,1,PostgreSQL B: 7 queries,8395,0.9563
+localhost,1,PostgreSQL B: 7 queries,4181,0.9394
+localhost,1,PostgreSQL B: 7 queries,3907,0.9268
+localhost,1,PostgreSQL B: 7 queries,6417,0.8944
+localhost,1,PostgreSQL B: 7 queries,4211,0.8916
+localhost,1,PostgreSQL B: 7 queries,6895,1.009
+localhost,1,PostgreSQL B: 7 queries,9773,0.9019
+localhost,1,PostgreSQL B: 7 queries,8045,0.951
+localhost,1,PostgreSQL B: 7 queries,4808,0.9772
+localhost,1,PostgreSQL B: 7 queries,8521,0.8663
+localhost,1,PostgreSQL B: 7 queries,2875,0.9221
+localhost,1,PostgreSQL B: 7 queries,1127,0.918
+localhost,1,PostgreSQL B: 7 queries,2071,0.9324
+localhost,1,PostgreSQL B: 7 queries,3743,0.9408
+localhost,1,PostgreSQL B: 7 queries,7853,0.9071
+localhost,1,PostgreSQL B: 7 queries,9165,0.8805
+localhost,1,PostgreSQL B: 7 queries,10708,0.9123
+localhost,1,PostgreSQL B: 7 queries,10091,0.8823
+localhost,1,PostgreSQL B: 7 queries,10065,0.8592
+localhost,1,PostgreSQL B: 7 queries,1215,0.9879
+localhost,1,PostgreSQL B: 7 queries,4592,0.9606
+localhost,1,PostgreSQL B: 7 queries,3480,0.9319
+localhost,1,PostgreSQL B: 7 queries,3342,0.931
+localhost,1,PostgreSQL B: 7 queries,272,0.8559
+localhost,1,PostgreSQL B: 7 queries,1134,0.8635
+localhost,1,PostgreSQL B: 7 queries,4411,0.9077
+localhost,1,PostgreSQL B: 7 queries,6741,0.8784
+localhost,1,PostgreSQL B: 7 queries,7303,0.8996
+localhost,1,PostgreSQL B: 7 queries,4081,0.8665
+localhost,1,PostgreSQL B: 7 queries,991,0.9012
+localhost,1,PostgreSQL B: 7 queries,764,0.8959
+localhost,1,PostgreSQL B: 7 queries,2888,0.8822
+localhost,1,PostgreSQL B: 7 queries,4620,0.8839
+localhost,1,PostgreSQL B: 7 queries,6043,0.8847
+localhost,1,PostgreSQL B: 7 queries,8700,0.9241
+localhost,1,PostgreSQL B: 7 queries,9375,0.8713
+localhost,1,PostgreSQL B: 7 queries,2156,0.8755
+localhost,1,PostgreSQL B: 7 queries,1511,0.938
+localhost,1,PostgreSQL B: 7 queries,5934,0.9408
+localhost,1,PostgreSQL B: 7 queries,2268,0.9738
+localhost,1,PostgreSQL B: 7 queries,7379,0.9112
+localhost,1,PostgreSQL B: 7 queries,5423,0.873
+localhost,1,PostgreSQL B: 7 queries,10764,0.8742
+localhost,1,PostgreSQL B: 7 queries,8552,0.879
+localhost,1,PostgreSQL B: 7 queries,9576,0.9196
+localhost,1,PostgreSQL C: nested json_agg,687,0.1739
+localhost,1,PostgreSQL C: nested json_agg,9756,0.1993
+localhost,1,PostgreSQL C: nested json_agg,6491,0.2195
+localhost,1,PostgreSQL C: nested json_agg,7422,0.2364
+localhost,1,PostgreSQL C: nested json_agg,10714,0.1707
+localhost,1,PostgreSQL C: nested json_agg,10086,0.1629
+localhost,1,PostgreSQL C: nested json_agg,10651,0.1447
+localhost,1,PostgreSQL C: nested json_agg,2581,0.1818
+localhost,1,PostgreSQL C: nested json_agg,10210,0.157
+localhost,1,PostgreSQL C: nested json_agg,246,0.1967
+localhost,1,PostgreSQL C: nested json_agg,8657,0.1824
+localhost,1,PostgreSQL C: nested json_agg,1035,0.3378
+localhost,1,PostgreSQL C: nested json_agg,976,0.2133
+localhost,1,PostgreSQL C: nested json_agg,585,0.241
+localhost,1,PostgreSQL C: nested json_agg,3117,0.1798
+localhost,1,PostgreSQL C: nested json_agg,3964,0.1889
+localhost,1,PostgreSQL C: nested json_agg,9825,0.1918
+localhost,1,PostgreSQL C: nested json_agg,493,0.2225
+localhost,1,PostgreSQL C: nested json_agg,7602,0.3002
+localhost,1,PostgreSQL C: nested json_agg,5346,0.3054
+localhost,1,PostgreSQL C: nested json_agg,7218,0.312
+localhost,1,PostgreSQL C: nested json_agg,9683,0.1984
+localhost,1,PostgreSQL C: nested json_agg,3201,0.1764
+localhost,1,PostgreSQL C: nested json_agg,8506,0.1857
+localhost,1,PostgreSQL C: nested json_agg,3829,0.1863
+localhost,1,PostgreSQL C: nested json_agg,10491,0.1614
+localhost,1,PostgreSQL C: nested json_agg,4820,0.3808
+localhost,1,PostgreSQL C: nested json_agg,8189,0.2949
+localhost,1,PostgreSQL C: nested json_agg,76,0.3761
+localhost,1,PostgreSQL C: nested json_agg,10854,0.1654
+localhost,1,PostgreSQL C: nested json_agg,1393,0.1685
+localhost,1,PostgreSQL C: nested json_agg,7493,0.201
+localhost,1,PostgreSQL C: nested json_agg,10729,0.1621
+localhost,1,PostgreSQL C: nested json_agg,4558,0.1933
+localhost,1,PostgreSQL C: nested json_agg,6665,0.1985
+localhost,1,PostgreSQL C: nested json_agg,9032,0.2818
+localhost,1,PostgreSQL C: nested json_agg,1364,0.2048
+localhost,1,PostgreSQL C: nested json_agg,4162,0.2676
+localhost,1,PostgreSQL C: nested json_agg,5166,0.1981
+localhost,1,PostgreSQL C: nested json_agg,3763,0.2182
+localhost,1,PostgreSQL C: nested json_agg,8404,0.2669
+localhost,1,PostgreSQL C: nested json_agg,4736,0.2078
+localhost,1,PostgreSQL C: nested json_agg,488,0.1852
+localhost,1,PostgreSQL C: nested json_agg,1151,0.2104
+localhost,1,PostgreSQL C: nested json_agg,9227,0.1668
+localhost,1,PostgreSQL C: nested json_agg,1769,0.2126
+localhost,1,PostgreSQL C: nested json_agg,6561,0.1749
+localhost,1,PostgreSQL C: nested json_agg,1767,0.1665
+localhost,1,PostgreSQL C: nested json_agg,4767,0.1671
+localhost,1,PostgreSQL C: nested json_agg,6333,0.1923
+localhost,1,PostgreSQL C: nested json_agg,1095,0.3014
+localhost,1,PostgreSQL C: nested json_agg,277,0.19
+localhost,1,PostgreSQL C: nested json_agg,9,0.1853
+localhost,1,PostgreSQL C: nested json_agg,3499,0.2516
+localhost,1,PostgreSQL C: nested json_agg,3437,0.1814
+localhost,1,PostgreSQL C: nested json_agg,858,0.1999
+localhost,1,PostgreSQL C: nested json_agg,7701,0.2022
+localhost,1,PostgreSQL C: nested json_agg,6152,0.1833
+localhost,1,PostgreSQL C: nested json_agg,6512,0.1763
+localhost,1,PostgreSQL C: nested json_agg,6878,0.2604
+localhost,1,PostgreSQL C: nested json_agg,1197,0.1994
+localhost,1,PostgreSQL C: nested json_agg,9278,0.2268
+localhost,1,PostgreSQL C: nested json_agg,10313,0.1778
+localhost,1,PostgreSQL C: nested json_agg,3253,0.2041
+localhost,1,PostgreSQL C: nested json_agg,4421,0.1973
+localhost,1,PostgreSQL C: nested json_agg,5520,0.3787
+localhost,1,PostgreSQL C: nested json_agg,1428,0.2265
+localhost,1,PostgreSQL C: nested json_agg,5099,0.1974
+localhost,1,PostgreSQL C: nested json_agg,5450,0.2737
+localhost,1,PostgreSQL C: nested json_agg,249,0.1744
+localhost,1,PostgreSQL C: nested json_agg,6719,0.1975
+localhost,1,PostgreSQL C: nested json_agg,1934,0.1835
+localhost,1,PostgreSQL C: nested json_agg,2206,0.1987
+localhost,1,PostgreSQL C: nested json_agg,4037,0.1752
+localhost,1,PostgreSQL C: nested json_agg,1656,0.1956
+localhost,1,PostgreSQL C: nested json_agg,180,0.2258
+localhost,1,PostgreSQL C: nested json_agg,982,0.2352
+localhost,1,PostgreSQL C: nested json_agg,7618,0.1826
+localhost,1,PostgreSQL C: nested json_agg,7977,0.1749
+localhost,1,PostgreSQL C: nested json_agg,2912,0.2246
+localhost,1,PostgreSQL C: nested json_agg,9164,0.1604
+localhost,1,PostgreSQL C: nested json_agg,3087,0.1875
+localhost,1,PostgreSQL C: nested json_agg,7331,0.5704
+localhost,1,PostgreSQL C: nested json_agg,8338,0.281
+localhost,1,PostgreSQL C: nested json_agg,3125,0.2267
+localhost,1,PostgreSQL C: nested json_agg,2146,0.1711
+localhost,1,PostgreSQL C: nested json_agg,6869,0.179
+localhost,1,PostgreSQL C: nested json_agg,10547,0.1606
+localhost,1,PostgreSQL C: nested json_agg,6288,0.1773
+localhost,1,PostgreSQL C: nested json_agg,1909,0.183
+localhost,1,PostgreSQL C: nested json_agg,6470,0.1924
+localhost,1,PostgreSQL C: nested json_agg,6894,0.2901
+localhost,1,PostgreSQL C: nested json_agg,3488,0.1948
+localhost,1,PostgreSQL C: nested json_agg,8,0.2622
+localhost,1,PostgreSQL C: nested json_agg,4421,0.1812
+localhost,1,PostgreSQL C: nested json_agg,9712,0.2543
+localhost,1,PostgreSQL C: nested json_agg,4984,0.1946
+localhost,1,PostgreSQL C: nested json_agg,322,0.1818
+localhost,1,PostgreSQL C: nested json_agg,3453,0.1715
+localhost,1,PostgreSQL C: nested json_agg,3069,0.1845
+localhost,1,PostgreSQL C: nested json_agg,6460,0.1844
+localhost,1,PostgreSQL C: nested json_agg,9864,0.367
+localhost,1,PostgreSQL C: nested json_agg,10516,0.1626
+localhost,1,PostgreSQL C: nested json_agg,9453,0.1908
+localhost,1,PostgreSQL C: nested json_agg,1644,0.1824
+localhost,1,PostgreSQL C: nested json_agg,690,0.1669
+localhost,1,PostgreSQL C: nested json_agg,2398,0.2759
+localhost,1,PostgreSQL C: nested json_agg,3494,0.1907
+localhost,1,PostgreSQL C: nested json_agg,7235,0.2091
+localhost,1,PostgreSQL C: nested json_agg,4232,0.2776
+localhost,1,PostgreSQL C: nested json_agg,157,0.3339
+localhost,1,PostgreSQL C: nested json_agg,10000,0.1965
+localhost,1,PostgreSQL C: nested json_agg,5390,0.1843
+localhost,1,PostgreSQL C: nested json_agg,4855,0.1875
+localhost,1,PostgreSQL C: nested json_agg,6328,0.1683
+localhost,1,PostgreSQL C: nested json_agg,1203,0.346
+localhost,1,PostgreSQL C: nested json_agg,1218,0.2423
+localhost,1,PostgreSQL C: nested json_agg,1477,0.1752
+localhost,1,PostgreSQL C: nested json_agg,3420,0.1715
+localhost,1,PostgreSQL C: nested json_agg,9548,0.2303
+localhost,1,PostgreSQL C: nested json_agg,10430,0.1654
+localhost,1,PostgreSQL C: nested json_agg,3982,0.2073
+localhost,1,PostgreSQL C: nested json_agg,255,0.2053
+localhost,1,PostgreSQL C: nested json_agg,9852,0.1737
+localhost,1,PostgreSQL C: nested json_agg,6041,0.1732
+localhost,1,PostgreSQL C: nested json_agg,6090,0.285
+localhost,1,PostgreSQL C: nested json_agg,10194,0.1597
+localhost,1,PostgreSQL C: nested json_agg,7426,0.1801
+localhost,1,PostgreSQL C: nested json_agg,2085,0.197
+localhost,1,PostgreSQL C: nested json_agg,9622,0.2034
+localhost,1,PostgreSQL C: nested json_agg,7926,0.1881
+localhost,1,PostgreSQL C: nested json_agg,9414,0.2466
+localhost,1,PostgreSQL C: nested json_agg,2224,0.1826
+localhost,1,PostgreSQL C: nested json_agg,6326,0.204
+localhost,1,PostgreSQL C: nested json_agg,2996,0.2835
+localhost,1,PostgreSQL C: nested json_agg,10277,0.1755
+localhost,1,PostgreSQL C: nested json_agg,2526,0.1929
+localhost,1,PostgreSQL C: nested json_agg,5093,0.233
+localhost,1,PostgreSQL C: nested json_agg,3742,0.2253
+localhost,1,PostgreSQL C: nested json_agg,10002,0.1796
+localhost,1,PostgreSQL C: nested json_agg,4088,0.1648
+localhost,1,PostgreSQL C: nested json_agg,3110,0.2253
+localhost,1,PostgreSQL C: nested json_agg,2597,0.2012
+localhost,1,PostgreSQL C: nested json_agg,10306,0.1564
+localhost,1,PostgreSQL C: nested json_agg,9076,0.1897
+localhost,1,PostgreSQL C: nested json_agg,3221,0.1813
+localhost,1,PostgreSQL C: nested json_agg,6361,0.2307
+localhost,1,PostgreSQL C: nested json_agg,7906,0.2074
+localhost,1,PostgreSQL C: nested json_agg,9889,0.1851
+localhost,1,PostgreSQL C: nested json_agg,1287,0.2848
+localhost,1,PostgreSQL C: nested json_agg,6906,0.36
+localhost,1,PostgreSQL C: nested json_agg,777,0.1874
+localhost,1,PostgreSQL C: nested json_agg,1702,0.176
+localhost,1,PostgreSQL C: nested json_agg,1787,0.2089
+localhost,1,PostgreSQL C: nested json_agg,635,0.1569
+localhost,1,PostgreSQL C: nested json_agg,8395,0.2985
+localhost,1,PostgreSQL C: nested json_agg,4181,0.2009
+localhost,1,PostgreSQL C: nested json_agg,3907,0.1793
+localhost,1,PostgreSQL C: nested json_agg,6417,0.2041
+localhost,1,PostgreSQL C: nested json_agg,4211,0.1652
+localhost,1,PostgreSQL C: nested json_agg,6895,0.3133
+localhost,1,PostgreSQL C: nested json_agg,9773,0.1831
+localhost,1,PostgreSQL C: nested json_agg,8045,0.2197
+localhost,1,PostgreSQL C: nested json_agg,4808,0.263
+localhost,1,PostgreSQL C: nested json_agg,8521,0.1757
+localhost,1,PostgreSQL C: nested json_agg,2875,0.2275
+localhost,1,PostgreSQL C: nested json_agg,1127,0.1729
+localhost,1,PostgreSQL C: nested json_agg,2071,0.2238
+localhost,1,PostgreSQL C: nested json_agg,3743,0.3007
+localhost,1,PostgreSQL C: nested json_agg,7853,0.1755
+localhost,1,PostgreSQL C: nested json_agg,9165,0.1943
+localhost,1,PostgreSQL C: nested json_agg,10708,0.168
+localhost,1,PostgreSQL C: nested json_agg,10091,0.1778
+localhost,1,PostgreSQL C: nested json_agg,10065,0.1668
+localhost,1,PostgreSQL C: nested json_agg,1215,0.2399
+localhost,1,PostgreSQL C: nested json_agg,4592,0.2023
+localhost,1,PostgreSQL C: nested json_agg,3480,0.2394
+localhost,1,PostgreSQL C: nested json_agg,3342,0.2251
+localhost,1,PostgreSQL C: nested json_agg,272,0.1797
+localhost,1,PostgreSQL C: nested json_agg,1134,0.1768
+localhost,1,PostgreSQL C: nested json_agg,4411,0.1985
+localhost,1,PostgreSQL C: nested json_agg,6741,0.1917
+localhost,1,PostgreSQL C: nested json_agg,7303,0.1804
+localhost,1,PostgreSQL C: nested json_agg,4081,0.1945
+localhost,1,PostgreSQL C: nested json_agg,991,0.1594
+localhost,1,PostgreSQL C: nested json_agg,764,0.157
+localhost,1,PostgreSQL C: nested json_agg,2888,0.23
+localhost,1,PostgreSQL C: nested json_agg,4620,0.2117
+localhost,1,PostgreSQL C: nested json_agg,6043,0.2249
+localhost,1,PostgreSQL C: nested json_agg,8700,0.356
+localhost,1,PostgreSQL C: nested json_agg,9375,0.1985
+localhost,1,PostgreSQL C: nested json_agg,2156,0.1908
+localhost,1,PostgreSQL C: nested json_agg,1511,0.1971
+localhost,1,PostgreSQL C: nested json_agg,5934,0.225
+localhost,1,PostgreSQL C: nested json_agg,2268,0.4086
+localhost,1,PostgreSQL C: nested json_agg,7379,0.1938
+localhost,1,PostgreSQL C: nested json_agg,5423,0.2237
+localhost,1,PostgreSQL C: nested json_agg,10764,0.1702
+localhost,1,PostgreSQL C: nested json_agg,8552,0.1951
+localhost,1,PostgreSQL C: nested json_agg,9576,0.273
+localhost,1,MongoDB: 3 reads,687,0.58
+localhost,1,MongoDB: 3 reads,9756,0.5568
+localhost,1,MongoDB: 3 reads,6491,0.5737
+localhost,1,MongoDB: 3 reads,7422,0.6014
+localhost,1,MongoDB: 3 reads,10714,0.5455
+localhost,1,MongoDB: 3 reads,10086,0.5379
+localhost,1,MongoDB: 3 reads,10651,0.531
+localhost,1,MongoDB: 3 reads,2581,0.5496
+localhost,1,MongoDB: 3 reads,10210,0.5451
+localhost,1,MongoDB: 3 reads,246,0.566
+localhost,1,MongoDB: 3 reads,8657,0.5495
+localhost,1,MongoDB: 3 reads,1035,0.631
+localhost,1,MongoDB: 3 reads,976,0.5646
+localhost,1,MongoDB: 3 reads,585,0.5813
+localhost,1,MongoDB: 3 reads,3117,0.5925
+localhost,1,MongoDB: 3 reads,3964,0.5397
+localhost,1,MongoDB: 3 reads,9825,0.5501
+localhost,1,MongoDB: 3 reads,493,0.6341
+localhost,1,MongoDB: 3 reads,7602,0.6157
+localhost,1,MongoDB: 3 reads,5346,0.5977
+localhost,1,MongoDB: 3 reads,7218,0.6134
+localhost,1,MongoDB: 3 reads,9683,0.5317
+localhost,1,MongoDB: 3 reads,3201,0.5453
+localhost,1,MongoDB: 3 reads,8506,0.5719
+localhost,1,MongoDB: 3 reads,3829,0.534
+localhost,1,MongoDB: 3 reads,10491,0.5411
+localhost,1,MongoDB: 3 reads,4820,0.6496
+localhost,1,MongoDB: 3 reads,8189,0.6026
+localhost,1,MongoDB: 3 reads,76,0.6896
+localhost,1,MongoDB: 3 reads,10854,0.5273
+localhost,1,MongoDB: 3 reads,1393,0.5742
+localhost,1,MongoDB: 3 reads,7493,0.5364
+localhost,1,MongoDB: 3 reads,10729,0.5241
+localhost,1,MongoDB: 3 reads,4558,0.5492
+localhost,1,MongoDB: 3 reads,6665,0.573
+localhost,1,MongoDB: 3 reads,9032,0.6237
+localhost,1,MongoDB: 3 reads,1364,0.5516
+localhost,1,MongoDB: 3 reads,4162,0.5671
+localhost,1,MongoDB: 3 reads,5166,0.544
+localhost,1,MongoDB: 3 reads,3763,0.5538
+localhost,1,MongoDB: 3 reads,8404,0.5649
+localhost,1,MongoDB: 3 reads,4736,0.5263
+localhost,1,MongoDB: 3 reads,488,0.5524
+localhost,1,MongoDB: 3 reads,1151,0.5638
+localhost,1,MongoDB: 3 reads,9227,0.5291
+localhost,1,MongoDB: 3 reads,1769,0.5465
+localhost,1,MongoDB: 3 reads,6561,0.5671
+localhost,1,MongoDB: 3 reads,1767,0.5685
+localhost,1,MongoDB: 3 reads,4767,0.5232
+localhost,1,MongoDB: 3 reads,6333,0.5335
+localhost,1,MongoDB: 3 reads,1095,0.5604
+localhost,1,MongoDB: 3 reads,277,0.5483
+localhost,1,MongoDB: 3 reads,9,0.5527
+localhost,1,MongoDB: 3 reads,3499,0.5596
+localhost,1,MongoDB: 3 reads,3437,0.5223
+localhost,1,MongoDB: 3 reads,858,0.5325
+localhost,1,MongoDB: 3 reads,7701,0.5558
+localhost,1,MongoDB: 3 reads,6152,0.5745
+localhost,1,MongoDB: 3 reads,6512,0.577
+localhost,1,MongoDB: 3 reads,6878,0.6218
+localhost,1,MongoDB: 3 reads,1197,0.5437
+localhost,1,MongoDB: 3 reads,9278,0.603
+localhost,1,MongoDB: 3 reads,10313,0.5194
+localhost,1,MongoDB: 3 reads,3253,0.5427
+localhost,1,MongoDB: 3 reads,4421,0.5529
+localhost,1,MongoDB: 3 reads,5520,0.6275
+localhost,1,MongoDB: 3 reads,1428,0.5485
+localhost,1,MongoDB: 3 reads,5099,0.5619
+localhost,1,MongoDB: 3 reads,5450,0.6225
+localhost,1,MongoDB: 3 reads,249,0.5537
+localhost,1,MongoDB: 3 reads,6719,0.5695
+localhost,1,MongoDB: 3 reads,1934,0.5481
+localhost,1,MongoDB: 3 reads,2206,0.5663
+localhost,1,MongoDB: 3 reads,4037,0.5464
+localhost,1,MongoDB: 3 reads,1656,0.5471
+localhost,1,MongoDB: 3 reads,180,0.5665
+localhost,1,MongoDB: 3 reads,982,0.5863
+localhost,1,MongoDB: 3 reads,7618,0.5855
+localhost,1,MongoDB: 3 reads,7977,0.5443
+localhost,1,MongoDB: 3 reads,2912,0.536
+localhost,1,MongoDB: 3 reads,9164,0.5355
+localhost,1,MongoDB: 3 reads,3087,0.5369
+localhost,1,MongoDB: 3 reads,7331,0.7113
+localhost,1,MongoDB: 3 reads,8338,0.5779
+localhost,1,MongoDB: 3 reads,3125,0.5694
+localhost,1,MongoDB: 3 reads,2146,0.523
+localhost,1,MongoDB: 3 reads,6869,0.5396
+localhost,1,MongoDB: 3 reads,10547,0.5369
+localhost,1,MongoDB: 3 reads,6288,0.5721
+localhost,1,MongoDB: 3 reads,1909,0.5486
+localhost,1,MongoDB: 3 reads,6470,0.5507
+localhost,1,MongoDB: 3 reads,6894,0.5812
+localhost,1,MongoDB: 3 reads,3488,0.5527
+localhost,1,MongoDB: 3 reads,8,0.579
+localhost,1,MongoDB: 3 reads,4421,0.5456
+localhost,1,MongoDB: 3 reads,9712,0.5622
+localhost,1,MongoDB: 3 reads,4984,0.5305
+localhost,1,MongoDB: 3 reads,322,0.535
+localhost,1,MongoDB: 3 reads,3453,0.507
+localhost,1,MongoDB: 3 reads,3069,0.507
+localhost,1,MongoDB: 3 reads,6460,0.5796
+localhost,1,MongoDB: 3 reads,9864,0.6231
+localhost,1,MongoDB: 3 reads,10516,0.5354
+localhost,1,MongoDB: 3 reads,9453,0.5249
+localhost,1,MongoDB: 3 reads,1644,0.5377
+localhost,1,MongoDB: 3 reads,690,0.5447
+localhost,1,MongoDB: 3 reads,2398,0.6296
+localhost,1,MongoDB: 3 reads,3494,0.5342
+localhost,1,MongoDB: 3 reads,7235,0.5509
+localhost,1,MongoDB: 3 reads,4232,0.56
+localhost,1,MongoDB: 3 reads,157,0.6059
+localhost,1,MongoDB: 3 reads,10000,0.5416
+localhost,1,MongoDB: 3 reads,5390,0.5596
+localhost,1,MongoDB: 3 reads,4855,0.5505
+localhost,1,MongoDB: 3 reads,6328,0.5114
+localhost,1,MongoDB: 3 reads,1203,0.655
+localhost,1,MongoDB: 3 reads,1218,0.5776
+localhost,1,MongoDB: 3 reads,1477,0.5266
+localhost,1,MongoDB: 3 reads,3420,0.5897
+localhost,1,MongoDB: 3 reads,9548,0.5839
+localhost,1,MongoDB: 3 reads,10430,0.5423
+localhost,1,MongoDB: 3 reads,3982,0.5401
+localhost,1,MongoDB: 3 reads,255,0.5672
+localhost,1,MongoDB: 3 reads,9852,0.5333
+localhost,1,MongoDB: 3 reads,6041,0.5427
+localhost,1,MongoDB: 3 reads,6090,0.6065
+localhost,1,MongoDB: 3 reads,10194,0.5401
+localhost,1,MongoDB: 3 reads,7426,0.5235
+localhost,1,MongoDB: 3 reads,2085,0.5502
+localhost,1,MongoDB: 3 reads,9622,0.5266
+localhost,1,MongoDB: 3 reads,7926,0.5468
+localhost,1,MongoDB: 3 reads,9414,0.5731
+localhost,1,MongoDB: 3 reads,2224,0.5595
+localhost,1,MongoDB: 3 reads,6326,0.5395
+localhost,1,MongoDB: 3 reads,2996,0.6327
+localhost,1,MongoDB: 3 reads,10277,0.542
+localhost,1,MongoDB: 3 reads,2526,0.5597
+localhost,1,MongoDB: 3 reads,5093,0.5224
+localhost,1,MongoDB: 3 reads,3742,0.541
+localhost,1,MongoDB: 3 reads,10002,0.5098
+localhost,1,MongoDB: 3 reads,4088,0.5118
+localhost,1,MongoDB: 3 reads,3110,0.5776
+localhost,1,MongoDB: 3 reads,2597,0.5245
+localhost,1,MongoDB: 3 reads,10306,0.527
+localhost,1,MongoDB: 3 reads,9076,0.5249
+localhost,1,MongoDB: 3 reads,3221,0.5216
+localhost,1,MongoDB: 3 reads,6361,0.5433
+localhost,1,MongoDB: 3 reads,7906,0.5291
+localhost,1,MongoDB: 3 reads,9889,0.5802
+localhost,1,MongoDB: 3 reads,1287,0.5648
+localhost,1,MongoDB: 3 reads,6906,0.6798
+localhost,1,MongoDB: 3 reads,777,0.5627
+localhost,1,MongoDB: 3 reads,1702,0.5312
+localhost,1,MongoDB: 3 reads,1787,0.5645
+localhost,1,MongoDB: 3 reads,635,0.5399
+localhost,1,MongoDB: 3 reads,8395,0.586
+localhost,1,MongoDB: 3 reads,4181,0.5674
+localhost,1,MongoDB: 3 reads,3907,0.5382
+localhost,1,MongoDB: 3 reads,6417,0.5603
+localhost,1,MongoDB: 3 reads,4211,0.5241
+localhost,1,MongoDB: 3 reads,6895,0.6055
+localhost,1,MongoDB: 3 reads,9773,0.5582
+localhost,1,MongoDB: 3 reads,8045,0.6604
+localhost,1,MongoDB: 3 reads,4808,0.6414
+localhost,1,MongoDB: 3 reads,8521,0.5925
+localhost,1,MongoDB: 3 reads,2875,0.5771
+localhost,1,MongoDB: 3 reads,1127,0.5625
+localhost,1,MongoDB: 3 reads,2071,0.5469
+localhost,1,MongoDB: 3 reads,3743,0.6198
+localhost,1,MongoDB: 3 reads,7853,0.5157
+localhost,1,MongoDB: 3 reads,9165,0.5336
+localhost,1,MongoDB: 3 reads,10708,0.5136
+localhost,1,MongoDB: 3 reads,10091,0.5215
+localhost,1,MongoDB: 3 reads,10065,0.5164
+localhost,1,MongoDB: 3 reads,1215,0.5725
+localhost,1,MongoDB: 3 reads,4592,0.5657
+localhost,1,MongoDB: 3 reads,3480,0.5443
+localhost,1,MongoDB: 3 reads,3342,0.6182
+localhost,1,MongoDB: 3 reads,272,0.5954
+localhost,1,MongoDB: 3 reads,1134,0.746
+localhost,1,MongoDB: 3 reads,4411,0.7727
+localhost,1,MongoDB: 3 reads,6741,0.5836
+localhost,1,MongoDB: 3 reads,7303,0.5671
+localhost,1,MongoDB: 3 reads,4081,0.5805
+localhost,1,MongoDB: 3 reads,991,0.5361
+localhost,1,MongoDB: 3 reads,764,0.6129
+localhost,1,MongoDB: 3 reads,2888,0.6734
+localhost,1,MongoDB: 3 reads,4620,0.5678
+localhost,1,MongoDB: 3 reads,6043,0.5614
+localhost,1,MongoDB: 3 reads,8700,0.6015
+localhost,1,MongoDB: 3 reads,9375,0.5716
+localhost,1,MongoDB: 3 reads,2156,0.5546
+localhost,1,MongoDB: 3 reads,1511,0.5291
+localhost,1,MongoDB: 3 reads,5934,0.593
+localhost,1,MongoDB: 3 reads,2268,0.6888
+localhost,1,MongoDB: 3 reads,7379,0.5593
+localhost,1,MongoDB: 3 reads,5423,0.576
+localhost,1,MongoDB: 3 reads,10764,0.5496
+localhost,1,MongoDB: 3 reads,8552,0.5675
+localhost,1,MongoDB: 3 reads,9576,0.5584
+localhost,2,PostgreSQL A: one 10-table join,8948,0.3717
+localhost,2,PostgreSQL A: one 10-table join,6026,0.1877
+localhost,2,PostgreSQL A: one 10-table join,729,0.2195
+localhost,2,PostgreSQL A: one 10-table join,2123,0.2349
+localhost,2,PostgreSQL A: one 10-table join,5598,0.9985
+localhost,2,PostgreSQL A: one 10-table join,5765,0.2776
+localhost,2,PostgreSQL A: one 10-table join,1392,0.2573
+localhost,2,PostgreSQL A: one 10-table join,7755,0.3712
+localhost,2,PostgreSQL A: one 10-table join,1273,0.2841
+localhost,2,PostgreSQL A: one 10-table join,6835,0.3115
+localhost,2,PostgreSQL A: one 10-table join,496,0.52
+localhost,2,PostgreSQL A: one 10-table join,8191,0.2626
+localhost,2,PostgreSQL A: one 10-table join,9385,0.2585
+localhost,2,PostgreSQL A: one 10-table join,239,0.1987
+localhost,2,PostgreSQL A: one 10-table join,10240,0.1773
+localhost,2,PostgreSQL A: one 10-table join,10851,0.2625
+localhost,2,PostgreSQL A: one 10-table join,6265,2.7796
+localhost,2,PostgreSQL A: one 10-table join,6213,0.2908
+localhost,2,PostgreSQL A: one 10-table join,9547,0.2625
+localhost,2,PostgreSQL A: one 10-table join,204,0.294
+localhost,2,PostgreSQL A: one 10-table join,9976,0.5568
+localhost,2,PostgreSQL A: one 10-table join,1184,0.2411
+localhost,2,PostgreSQL A: one 10-table join,1315,0.2288
+localhost,2,PostgreSQL A: one 10-table join,1486,0.284
+localhost,2,PostgreSQL A: one 10-table join,10477,0.2193
+localhost,2,PostgreSQL A: one 10-table join,1894,0.2773
+localhost,2,PostgreSQL A: one 10-table join,4215,0.2074
+localhost,2,PostgreSQL A: one 10-table join,6820,0.7397
+localhost,2,PostgreSQL A: one 10-table join,5410,0.2501
+localhost,2,PostgreSQL A: one 10-table join,6365,0.7489
+localhost,2,PostgreSQL A: one 10-table join,9519,0.3718
+localhost,2,PostgreSQL A: one 10-table join,7500,0.237
+localhost,2,PostgreSQL A: one 10-table join,7218,0.805
+localhost,2,PostgreSQL A: one 10-table join,7580,0.1674
+localhost,2,PostgreSQL A: one 10-table join,8868,0.1757
+localhost,2,PostgreSQL A: one 10-table join,1373,0.1682
+localhost,2,PostgreSQL A: one 10-table join,8499,0.2207
+localhost,2,PostgreSQL A: one 10-table join,8431,0.2265
+localhost,2,PostgreSQL A: one 10-table join,489,0.2148
+localhost,2,PostgreSQL A: one 10-table join,5083,0.1922
+localhost,2,PostgreSQL A: one 10-table join,9852,0.2106
+localhost,2,PostgreSQL A: one 10-table join,1438,6.4777
+localhost,2,PostgreSQL A: one 10-table join,7880,1.085
+localhost,2,PostgreSQL A: one 10-table join,366,0.2802
+localhost,2,PostgreSQL A: one 10-table join,3772,0.1977
+localhost,2,PostgreSQL A: one 10-table join,1850,0.2704
+localhost,2,PostgreSQL A: one 10-table join,8147,0.2498
+localhost,2,PostgreSQL A: one 10-table join,10069,0.2096
+localhost,2,PostgreSQL A: one 10-table join,10816,0.1846
+localhost,2,PostgreSQL A: one 10-table join,7968,0.2536
+localhost,2,PostgreSQL A: one 10-table join,4192,0.2563
+localhost,2,PostgreSQL A: one 10-table join,186,0.8339
+localhost,2,PostgreSQL A: one 10-table join,6029,0.2848
+localhost,2,PostgreSQL A: one 10-table join,4933,0.2782
+localhost,2,PostgreSQL A: one 10-table join,2347,0.2612
+localhost,2,PostgreSQL A: one 10-table join,10024,0.1793
+localhost,2,PostgreSQL A: one 10-table join,3319,0.2743
+localhost,2,PostgreSQL A: one 10-table join,8494,0.282
+localhost,2,PostgreSQL A: one 10-table join,2779,1.9447
+localhost,2,PostgreSQL A: one 10-table join,5612,0.2529
+localhost,2,PostgreSQL A: one 10-table join,10814,0.1801
+localhost,2,PostgreSQL A: one 10-table join,7241,1.0178
+localhost,2,PostgreSQL A: one 10-table join,8165,2.4592
+localhost,2,PostgreSQL A: one 10-table join,3957,0.2982
+localhost,2,PostgreSQL A: one 10-table join,5357,0.4728
+localhost,2,PostgreSQL A: one 10-table join,6632,0.2002
+localhost,2,PostgreSQL A: one 10-table join,10911,0.1919
+localhost,2,PostgreSQL A: one 10-table join,4106,0.2585
+localhost,2,PostgreSQL A: one 10-table join,3253,0.3014
+localhost,2,PostgreSQL A: one 10-table join,10391,0.1878
+localhost,2,PostgreSQL A: one 10-table join,7060,2.62
+localhost,2,PostgreSQL A: one 10-table join,3282,0.2099
+localhost,2,PostgreSQL A: one 10-table join,3510,0.5077
+localhost,2,PostgreSQL A: one 10-table join,6299,0.252
+localhost,2,PostgreSQL A: one 10-table join,3598,0.2819
+localhost,2,PostgreSQL A: one 10-table join,9554,0.2815
+localhost,2,PostgreSQL A: one 10-table join,5186,0.977
+localhost,2,PostgreSQL A: one 10-table join,3439,0.7107
+localhost,2,PostgreSQL A: one 10-table join,2232,0.2779
+localhost,2,PostgreSQL A: one 10-table join,2205,0.281
+localhost,2,PostgreSQL A: one 10-table join,8135,0.7359
+localhost,2,PostgreSQL A: one 10-table join,5747,0.2799
+localhost,2,PostgreSQL A: one 10-table join,665,0.2552
+localhost,2,PostgreSQL A: one 10-table join,1051,0.7255
+localhost,2,PostgreSQL A: one 10-table join,4536,0.1971
+localhost,2,PostgreSQL A: one 10-table join,2772,0.2094
+localhost,2,PostgreSQL A: one 10-table join,1849,0.2453
+localhost,2,PostgreSQL A: one 10-table join,7384,0.2829
+localhost,2,PostgreSQL A: one 10-table join,7723,0.2743
+localhost,2,PostgreSQL A: one 10-table join,4509,0.4022
+localhost,2,PostgreSQL A: one 10-table join,3508,0.3002
+localhost,2,PostgreSQL A: one 10-table join,6783,0.2038
+localhost,2,PostgreSQL A: one 10-table join,6268,0.2938
+localhost,2,PostgreSQL A: one 10-table join,10253,0.1815
+localhost,2,PostgreSQL A: one 10-table join,8520,0.1844
+localhost,2,PostgreSQL A: one 10-table join,8092,2.3795
+localhost,2,PostgreSQL A: one 10-table join,11013,0.1755
+localhost,2,PostgreSQL A: one 10-table join,5168,1.4368
+localhost,2,PostgreSQL A: one 10-table join,10237,0.1783
+localhost,2,PostgreSQL A: one 10-table join,7414,0.2634
+localhost,2,PostgreSQL A: one 10-table join,5249,0.2418
+localhost,2,PostgreSQL A: one 10-table join,1224,0.4185
+localhost,2,PostgreSQL A: one 10-table join,516,0.4548
+localhost,2,PostgreSQL A: one 10-table join,4557,0.2403
+localhost,2,PostgreSQL A: one 10-table join,9955,0.2024
+localhost,2,PostgreSQL A: one 10-table join,680,0.2794
+localhost,2,PostgreSQL A: one 10-table join,4606,0.2651
+localhost,2,PostgreSQL A: one 10-table join,9349,0.19
+localhost,2,PostgreSQL A: one 10-table join,5804,0.2575
+localhost,2,PostgreSQL A: one 10-table join,5064,0.685
+localhost,2,PostgreSQL A: one 10-table join,10638,0.1783
+localhost,2,PostgreSQL A: one 10-table join,9242,0.2977
+localhost,2,PostgreSQL A: one 10-table join,314,0.2424
+localhost,2,PostgreSQL A: one 10-table join,10502,0.1819
+localhost,2,PostgreSQL A: one 10-table join,2227,0.3878
+localhost,2,PostgreSQL A: one 10-table join,6639,0.787
+localhost,2,PostgreSQL A: one 10-table join,7452,0.4563
+localhost,2,PostgreSQL A: one 10-table join,3112,0.2917
+localhost,2,PostgreSQL A: one 10-table join,406,0.1937
+localhost,2,PostgreSQL A: one 10-table join,4365,0.307
+localhost,2,PostgreSQL A: one 10-table join,3890,0.5257
+localhost,2,PostgreSQL A: one 10-table join,2309,0.7753
+localhost,2,PostgreSQL A: one 10-table join,770,0.3706
+localhost,2,PostgreSQL A: one 10-table join,10309,0.1741
+localhost,2,PostgreSQL A: one 10-table join,1890,0.2728
+localhost,2,PostgreSQL A: one 10-table join,7316,0.2745
+localhost,2,PostgreSQL A: one 10-table join,1787,0.4181
+localhost,2,PostgreSQL A: one 10-table join,10322,0.203
+localhost,2,PostgreSQL A: one 10-table join,8772,1.2768
+localhost,2,PostgreSQL A: one 10-table join,10733,0.1881
+localhost,2,PostgreSQL A: one 10-table join,10485,0.179
+localhost,2,PostgreSQL A: one 10-table join,6041,0.2613
+localhost,2,PostgreSQL A: one 10-table join,1278,0.3205
+localhost,2,PostgreSQL A: one 10-table join,3245,0.2908
+localhost,2,PostgreSQL A: one 10-table join,3267,0.2555
+localhost,2,PostgreSQL A: one 10-table join,7785,0.2658
+localhost,2,PostgreSQL A: one 10-table join,4195,0.2442
+localhost,2,PostgreSQL A: one 10-table join,2928,0.2345
+localhost,2,PostgreSQL A: one 10-table join,177,0.1839
+localhost,2,PostgreSQL A: one 10-table join,7737,0.2893
+localhost,2,PostgreSQL A: one 10-table join,8763,0.1923
+localhost,2,PostgreSQL A: one 10-table join,593,0.2292
+localhost,2,PostgreSQL A: one 10-table join,2935,0.2269
+localhost,2,PostgreSQL A: one 10-table join,3711,0.2243
+localhost,2,PostgreSQL A: one 10-table join,4463,0.2153
+localhost,2,PostgreSQL A: one 10-table join,5665,0.2751
+localhost,2,PostgreSQL A: one 10-table join,8843,0.2335
+localhost,2,PostgreSQL A: one 10-table join,8527,0.2431
+localhost,2,PostgreSQL A: one 10-table join,8199,2.5189
+localhost,2,PostgreSQL A: one 10-table join,10068,0.1825
+localhost,2,PostgreSQL A: one 10-table join,2609,0.2443
+localhost,2,PostgreSQL A: one 10-table join,6448,0.2309
+localhost,2,PostgreSQL A: one 10-table join,3669,0.1827
+localhost,2,PostgreSQL A: one 10-table join,1429,0.7495
+localhost,2,PostgreSQL A: one 10-table join,6726,0.1986
+localhost,2,PostgreSQL A: one 10-table join,6357,24.0918
+localhost,2,PostgreSQL A: one 10-table join,2129,0.5449
+localhost,2,PostgreSQL A: one 10-table join,7382,0.869
+localhost,2,PostgreSQL A: one 10-table join,7431,0.1953
+localhost,2,PostgreSQL A: one 10-table join,3226,0.3403
+localhost,2,PostgreSQL A: one 10-table join,10249,0.2347
+localhost,2,PostgreSQL A: one 10-table join,111,0.8935
+localhost,2,PostgreSQL A: one 10-table join,6174,0.272
+localhost,2,PostgreSQL A: one 10-table join,9012,0.2154
+localhost,2,PostgreSQL A: one 10-table join,9320,0.1989
+localhost,2,PostgreSQL A: one 10-table join,10694,0.1789
+localhost,2,PostgreSQL A: one 10-table join,8236,0.2997
+localhost,2,PostgreSQL A: one 10-table join,5622,0.5565
+localhost,2,PostgreSQL A: one 10-table join,7598,0.9068
+localhost,2,PostgreSQL A: one 10-table join,5349,0.2059
+localhost,2,PostgreSQL A: one 10-table join,10672,0.1949
+localhost,2,PostgreSQL A: one 10-table join,3357,0.271
+localhost,2,PostgreSQL A: one 10-table join,1622,0.3268
+localhost,2,PostgreSQL A: one 10-table join,10513,0.18
+localhost,2,PostgreSQL A: one 10-table join,2024,1.5945
+localhost,2,PostgreSQL A: one 10-table join,3495,0.233
+localhost,2,PostgreSQL A: one 10-table join,3970,0.2127
+localhost,2,PostgreSQL A: one 10-table join,6394,0.3649
+localhost,2,PostgreSQL A: one 10-table join,1440,0.2127
+localhost,2,PostgreSQL A: one 10-table join,5077,12.2182
+localhost,2,PostgreSQL A: one 10-table join,8798,0.3264
+localhost,2,PostgreSQL A: one 10-table join,5250,0.289
+localhost,2,PostgreSQL A: one 10-table join,4291,1.3082
+localhost,2,PostgreSQL A: one 10-table join,257,0.2078
+localhost,2,PostgreSQL A: one 10-table join,5710,0.389
+localhost,2,PostgreSQL A: one 10-table join,8270,0.2779
+localhost,2,PostgreSQL A: one 10-table join,1357,4.8665
+localhost,2,PostgreSQL A: one 10-table join,609,0.2937
+localhost,2,PostgreSQL A: one 10-table join,7224,0.2607
+localhost,2,PostgreSQL A: one 10-table join,5605,0.2874
+localhost,2,PostgreSQL A: one 10-table join,9017,0.2288
+localhost,2,PostgreSQL A: one 10-table join,6905,3.4273
+localhost,2,PostgreSQL A: one 10-table join,4510,1.588
+localhost,2,PostgreSQL A: one 10-table join,7987,1.9595
+localhost,2,PostgreSQL A: one 10-table join,466,0.219
+localhost,2,PostgreSQL A: one 10-table join,3577,3.3069
+localhost,2,PostgreSQL A: one 10-table join,1050,10.3059
+localhost,2,PostgreSQL A: one 10-table join,7028,0.7611
+localhost,2,PostgreSQL A: one 10-table join,576,0.2315
+localhost,2,PostgreSQL A: one 10-table join,2833,1.7551
+localhost,2,PostgreSQL B: 7 queries,8948,0.8809
+localhost,2,PostgreSQL B: 7 queries,6026,0.8686
+localhost,2,PostgreSQL B: 7 queries,729,0.8571
+localhost,2,PostgreSQL B: 7 queries,2123,0.9163
+localhost,2,PostgreSQL B: 7 queries,5598,0.9111
+localhost,2,PostgreSQL B: 7 queries,5765,1.0511
+localhost,2,PostgreSQL B: 7 queries,1392,0.9276
+localhost,2,PostgreSQL B: 7 queries,7755,0.9078
+localhost,2,PostgreSQL B: 7 queries,1273,0.6893
+localhost,2,PostgreSQL B: 7 queries,6835,0.6914
+localhost,2,PostgreSQL B: 7 queries,496,0.6759
+localhost,2,PostgreSQL B: 7 queries,8191,0.682
+localhost,2,PostgreSQL B: 7 queries,9385,0.6572
+localhost,2,PostgreSQL B: 7 queries,239,0.676
+localhost,2,PostgreSQL B: 7 queries,10240,0.8758
+localhost,2,PostgreSQL B: 7 queries,10851,0.9307
+localhost,2,PostgreSQL B: 7 queries,6265,0.9049
+localhost,2,PostgreSQL B: 7 queries,6213,0.9057
+localhost,2,PostgreSQL B: 7 queries,9547,0.9097
+localhost,2,PostgreSQL B: 7 queries,204,0.8937
+localhost,2,PostgreSQL B: 7 queries,9976,0.9684
+localhost,2,PostgreSQL B: 7 queries,1184,0.8992
+localhost,2,PostgreSQL B: 7 queries,1315,0.9043
+localhost,2,PostgreSQL B: 7 queries,1486,0.9135
+localhost,2,PostgreSQL B: 7 queries,10477,0.9354
+localhost,2,PostgreSQL B: 7 queries,1894,0.9514
+localhost,2,PostgreSQL B: 7 queries,4215,0.9248
+localhost,2,PostgreSQL B: 7 queries,6820,0.9287
+localhost,2,PostgreSQL B: 7 queries,5410,0.903
+localhost,2,PostgreSQL B: 7 queries,6365,0.9096
+localhost,2,PostgreSQL B: 7 queries,9519,0.9118
+localhost,2,PostgreSQL B: 7 queries,7500,0.9144
+localhost,2,PostgreSQL B: 7 queries,7218,0.9318
+localhost,2,PostgreSQL B: 7 queries,7580,0.8666
+localhost,2,PostgreSQL B: 7 queries,8868,0.8878
+localhost,2,PostgreSQL B: 7 queries,1373,0.8686
+localhost,2,PostgreSQL B: 7 queries,8499,0.8962
+localhost,2,PostgreSQL B: 7 queries,8431,0.8693
+localhost,2,PostgreSQL B: 7 queries,489,0.8599
+localhost,2,PostgreSQL B: 7 queries,5083,0.9158
+localhost,2,PostgreSQL B: 7 queries,9852,0.8458
+localhost,2,PostgreSQL B: 7 queries,1438,1.0357
+localhost,2,PostgreSQL B: 7 queries,7880,0.964
+localhost,2,PostgreSQL B: 7 queries,366,0.9211
+localhost,2,PostgreSQL B: 7 queries,3772,0.9319
+localhost,2,PostgreSQL B: 7 queries,1850,0.9337
+localhost,2,PostgreSQL B: 7 queries,8147,0.9295
+localhost,2,PostgreSQL B: 7 queries,10069,0.9001
+localhost,2,PostgreSQL B: 7 queries,10816,0.8824
+localhost,2,PostgreSQL B: 7 queries,7968,0.865
+localhost,2,PostgreSQL B: 7 queries,4192,0.9151
+localhost,2,PostgreSQL B: 7 queries,186,1.0426
+localhost,2,PostgreSQL B: 7 queries,6029,1.0027
+localhost,2,PostgreSQL B: 7 queries,4933,0.9598
+localhost,2,PostgreSQL B: 7 queries,2347,0.9485
+localhost,2,PostgreSQL B: 7 queries,10024,0.9205
+localhost,2,PostgreSQL B: 7 queries,3319,0.9667
+localhost,2,PostgreSQL B: 7 queries,8494,0.9637
+localhost,2,PostgreSQL B: 7 queries,2779,0.9675
+localhost,2,PostgreSQL B: 7 queries,5612,0.8519
+localhost,2,PostgreSQL B: 7 queries,10814,0.9023
+localhost,2,PostgreSQL B: 7 queries,7241,0.9742
+localhost,2,PostgreSQL B: 7 queries,8165,1.0262
+localhost,2,PostgreSQL B: 7 queries,3957,0.9036
+localhost,2,PostgreSQL B: 7 queries,5357,0.9002
+localhost,2,PostgreSQL B: 7 queries,6632,0.9157
+localhost,2,PostgreSQL B: 7 queries,10911,0.8816
+localhost,2,PostgreSQL B: 7 queries,4106,0.9335
+localhost,2,PostgreSQL B: 7 queries,3253,0.9101
+localhost,2,PostgreSQL B: 7 queries,10391,0.8815
+localhost,2,PostgreSQL B: 7 queries,7060,1.0495
+localhost,2,PostgreSQL B: 7 queries,3282,0.9113
+localhost,2,PostgreSQL B: 7 queries,3510,0.9157
+localhost,2,PostgreSQL B: 7 queries,6299,0.9079
+localhost,2,PostgreSQL B: 7 queries,3598,0.9375
+localhost,2,PostgreSQL B: 7 queries,9554,0.8921
+localhost,2,PostgreSQL B: 7 queries,5186,0.9363
+localhost,2,PostgreSQL B: 7 queries,3439,0.915
+localhost,2,PostgreSQL B: 7 queries,2232,0.9098
+localhost,2,PostgreSQL B: 7 queries,2205,0.9277
+localhost,2,PostgreSQL B: 7 queries,8135,0.9253
+localhost,2,PostgreSQL B: 7 queries,5747,0.8696
+localhost,2,PostgreSQL B: 7 queries,665,0.8894
+localhost,2,PostgreSQL B: 7 queries,1051,0.9138
+localhost,2,PostgreSQL B: 7 queries,4536,0.9055
+localhost,2,PostgreSQL B: 7 queries,2772,0.8955
+localhost,2,PostgreSQL B: 7 queries,1849,0.8773
+localhost,2,PostgreSQL B: 7 queries,7384,0.8995
+localhost,2,PostgreSQL B: 7 queries,7723,0.8845
+localhost,2,PostgreSQL B: 7 queries,4509,0.897
+localhost,2,PostgreSQL B: 7 queries,3508,0.8844
+localhost,2,PostgreSQL B: 7 queries,6783,0.856
+localhost,2,PostgreSQL B: 7 queries,6268,0.8735
+localhost,2,PostgreSQL B: 7 queries,10253,0.8683
+localhost,2,PostgreSQL B: 7 queries,8520,0.8653
+localhost,2,PostgreSQL B: 7 queries,8092,0.9544
+localhost,2,PostgreSQL B: 7 queries,11013,0.8807
+localhost,2,PostgreSQL B: 7 queries,5168,0.9193
+localhost,2,PostgreSQL B: 7 queries,10237,0.8684
+localhost,2,PostgreSQL B: 7 queries,7414,0.9172
+localhost,2,PostgreSQL B: 7 queries,5249,0.8662
+localhost,2,PostgreSQL B: 7 queries,1224,0.8833
+localhost,2,PostgreSQL B: 7 queries,516,0.9066
+localhost,2,PostgreSQL B: 7 queries,4557,0.9035
+localhost,2,PostgreSQL B: 7 queries,9955,0.8722
+localhost,2,PostgreSQL B: 7 queries,680,0.8635
+localhost,2,PostgreSQL B: 7 queries,4606,0.8723
+localhost,2,PostgreSQL B: 7 queries,9349,0.923
+localhost,2,PostgreSQL B: 7 queries,5804,0.987
+localhost,2,PostgreSQL B: 7 queries,5064,0.9295
+localhost,2,PostgreSQL B: 7 queries,10638,0.8809
+localhost,2,PostgreSQL B: 7 queries,9242,0.8943
+localhost,2,PostgreSQL B: 7 queries,314,0.8972
+localhost,2,PostgreSQL B: 7 queries,10502,0.8504
+localhost,2,PostgreSQL B: 7 queries,2227,0.9106
+localhost,2,PostgreSQL B: 7 queries,6639,0.9581
+localhost,2,PostgreSQL B: 7 queries,7452,1.1094
+localhost,2,PostgreSQL B: 7 queries,3112,0.9308
+localhost,2,PostgreSQL B: 7 queries,406,0.9522
+localhost,2,PostgreSQL B: 7 queries,4365,0.9411
+localhost,2,PostgreSQL B: 7 queries,3890,0.9301
+localhost,2,PostgreSQL B: 7 queries,2309,0.9311
+localhost,2,PostgreSQL B: 7 queries,770,0.895
+localhost,2,PostgreSQL B: 7 queries,10309,0.8871
+localhost,2,PostgreSQL B: 7 queries,1890,0.9038
+localhost,2,PostgreSQL B: 7 queries,7316,0.864
+localhost,2,PostgreSQL B: 7 queries,1787,0.9566
+localhost,2,PostgreSQL B: 7 queries,10322,0.8978
+localhost,2,PostgreSQL B: 7 queries,8772,0.9949
+localhost,2,PostgreSQL B: 7 queries,10733,0.822
+localhost,2,PostgreSQL B: 7 queries,10485,0.8436
+localhost,2,PostgreSQL B: 7 queries,6041,0.9069
+localhost,2,PostgreSQL B: 7 queries,1278,0.901
+localhost,2,PostgreSQL B: 7 queries,3245,0.9593
+localhost,2,PostgreSQL B: 7 queries,3267,0.9794
+localhost,2,PostgreSQL B: 7 queries,7785,0.8588
+localhost,2,PostgreSQL B: 7 queries,4195,0.9325
+localhost,2,PostgreSQL B: 7 queries,2928,0.9031
+localhost,2,PostgreSQL B: 7 queries,177,0.8833
+localhost,2,PostgreSQL B: 7 queries,7737,0.8853
+localhost,2,PostgreSQL B: 7 queries,8763,0.9433
+localhost,2,PostgreSQL B: 7 queries,593,0.9092
+localhost,2,PostgreSQL B: 7 queries,2935,0.8841
+localhost,2,PostgreSQL B: 7 queries,3711,0.8972
+localhost,2,PostgreSQL B: 7 queries,4463,0.9129
+localhost,2,PostgreSQL B: 7 queries,5665,0.9129
+localhost,2,PostgreSQL B: 7 queries,8843,0.9327
+localhost,2,PostgreSQL B: 7 queries,8527,0.8975
+localhost,2,PostgreSQL B: 7 queries,8199,0.9435
+localhost,2,PostgreSQL B: 7 queries,10068,0.8791
+localhost,2,PostgreSQL B: 7 queries,2609,0.8988
+localhost,2,PostgreSQL B: 7 queries,6448,0.8894
+localhost,2,PostgreSQL B: 7 queries,3669,0.9344
+localhost,2,PostgreSQL B: 7 queries,1429,0.9158
+localhost,2,PostgreSQL B: 7 queries,6726,0.884
+localhost,2,PostgreSQL B: 7 queries,6357,0.9759
+localhost,2,PostgreSQL B: 7 queries,2129,0.9028
+localhost,2,PostgreSQL B: 7 queries,7382,0.8921
+localhost,2,PostgreSQL B: 7 queries,7431,0.8689
+localhost,2,PostgreSQL B: 7 queries,3226,0.872
+localhost,2,PostgreSQL B: 7 queries,10249,0.8547
+localhost,2,PostgreSQL B: 7 queries,111,0.9321
+localhost,2,PostgreSQL B: 7 queries,6174,0.8994
+localhost,2,PostgreSQL B: 7 queries,9012,0.9095
+localhost,2,PostgreSQL B: 7 queries,9320,0.8739
+localhost,2,PostgreSQL B: 7 queries,10694,0.8598
+localhost,2,PostgreSQL B: 7 queries,8236,0.891
+localhost,2,PostgreSQL B: 7 queries,5622,0.9134
+localhost,2,PostgreSQL B: 7 queries,7598,0.9218
+localhost,2,PostgreSQL B: 7 queries,5349,0.9053
+localhost,2,PostgreSQL B: 7 queries,10672,0.8708
+localhost,2,PostgreSQL B: 7 queries,3357,0.877
+localhost,2,PostgreSQL B: 7 queries,1622,0.9031
+localhost,2,PostgreSQL B: 7 queries,10513,0.8878
+localhost,2,PostgreSQL B: 7 queries,2024,0.929
+localhost,2,PostgreSQL B: 7 queries,3495,0.8742
+localhost,2,PostgreSQL B: 7 queries,3970,0.8856
+localhost,2,PostgreSQL B: 7 queries,6394,0.8585
+localhost,2,PostgreSQL B: 7 queries,1440,0.8811
+localhost,2,PostgreSQL B: 7 queries,5077,0.9573
+localhost,2,PostgreSQL B: 7 queries,8798,0.8693
+localhost,2,PostgreSQL B: 7 queries,5250,0.9065
+localhost,2,PostgreSQL B: 7 queries,4291,0.9324
+localhost,2,PostgreSQL B: 7 queries,257,0.8756
+localhost,2,PostgreSQL B: 7 queries,5710,0.8777
+localhost,2,PostgreSQL B: 7 queries,8270,0.8622
+localhost,2,PostgreSQL B: 7 queries,1357,0.8871
+localhost,2,PostgreSQL B: 7 queries,609,0.9032
+localhost,2,PostgreSQL B: 7 queries,7224,0.8834
+localhost,2,PostgreSQL B: 7 queries,5605,1.019
+localhost,2,PostgreSQL B: 7 queries,9017,0.8752
+localhost,2,PostgreSQL B: 7 queries,6905,0.9256
+localhost,2,PostgreSQL B: 7 queries,4510,0.9517
+localhost,2,PostgreSQL B: 7 queries,7987,0.8975
+localhost,2,PostgreSQL B: 7 queries,466,0.8947
+localhost,2,PostgreSQL B: 7 queries,3577,0.8975
+localhost,2,PostgreSQL B: 7 queries,1050,0.9455
+localhost,2,PostgreSQL B: 7 queries,7028,0.9219
+localhost,2,PostgreSQL B: 7 queries,576,0.8816
+localhost,2,PostgreSQL B: 7 queries,2833,0.9169
+localhost,2,PostgreSQL C: nested json_agg,8948,0.2163
+localhost,2,PostgreSQL C: nested json_agg,6026,0.1691
+localhost,2,PostgreSQL C: nested json_agg,729,0.1846
+localhost,2,PostgreSQL C: nested json_agg,2123,0.1892
+localhost,2,PostgreSQL C: nested json_agg,5598,0.24
+localhost,2,PostgreSQL C: nested json_agg,5765,0.2079
+localhost,2,PostgreSQL C: nested json_agg,1392,0.1882
+localhost,2,PostgreSQL C: nested json_agg,7755,0.1987
+localhost,2,PostgreSQL C: nested json_agg,1273,0.1847
+localhost,2,PostgreSQL C: nested json_agg,6835,0.2092
+localhost,2,PostgreSQL C: nested json_agg,496,0.2385
+localhost,2,PostgreSQL C: nested json_agg,8191,0.2212
+localhost,2,PostgreSQL C: nested json_agg,9385,0.2446
+localhost,2,PostgreSQL C: nested json_agg,239,0.1773
+localhost,2,PostgreSQL C: nested json_agg,10240,0.1744
+localhost,2,PostgreSQL C: nested json_agg,10851,0.1746
+localhost,2,PostgreSQL C: nested json_agg,6265,0.2633
+localhost,2,PostgreSQL C: nested json_agg,6213,0.21
+localhost,2,PostgreSQL C: nested json_agg,9547,0.2135
+localhost,2,PostgreSQL C: nested json_agg,204,0.197
+localhost,2,PostgreSQL C: nested json_agg,9976,0.3112
+localhost,2,PostgreSQL C: nested json_agg,1184,0.1787
+localhost,2,PostgreSQL C: nested json_agg,1315,0.1612
+localhost,2,PostgreSQL C: nested json_agg,1486,0.2055
+localhost,2,PostgreSQL C: nested json_agg,10477,0.1689
+localhost,2,PostgreSQL C: nested json_agg,1894,0.1955
+localhost,2,PostgreSQL C: nested json_agg,4215,0.196
+localhost,2,PostgreSQL C: nested json_agg,6820,0.2075
+localhost,2,PostgreSQL C: nested json_agg,5410,0.203
+localhost,2,PostgreSQL C: nested json_agg,6365,0.2395
+localhost,2,PostgreSQL C: nested json_agg,9519,0.2002
+localhost,2,PostgreSQL C: nested json_agg,7500,0.1785
+localhost,2,PostgreSQL C: nested json_agg,7218,0.3059
+localhost,2,PostgreSQL C: nested json_agg,7580,0.1702
+localhost,2,PostgreSQL C: nested json_agg,8868,0.1694
+localhost,2,PostgreSQL C: nested json_agg,1373,0.1536
+localhost,2,PostgreSQL C: nested json_agg,8499,0.1803
+localhost,2,PostgreSQL C: nested json_agg,8431,0.1766
+localhost,2,PostgreSQL C: nested json_agg,489,0.1793
+localhost,2,PostgreSQL C: nested json_agg,5083,0.1594
+localhost,2,PostgreSQL C: nested json_agg,9852,0.1785
+localhost,2,PostgreSQL C: nested json_agg,1438,0.3558
+localhost,2,PostgreSQL C: nested json_agg,7880,0.2356
+localhost,2,PostgreSQL C: nested json_agg,366,0.1958
+localhost,2,PostgreSQL C: nested json_agg,3772,0.1734
+localhost,2,PostgreSQL C: nested json_agg,1850,0.1857
+localhost,2,PostgreSQL C: nested json_agg,8147,0.1831
+localhost,2,PostgreSQL C: nested json_agg,10069,0.1772
+localhost,2,PostgreSQL C: nested json_agg,10816,0.1623
+localhost,2,PostgreSQL C: nested json_agg,7968,0.1808
+localhost,2,PostgreSQL C: nested json_agg,4192,0.1893
+localhost,2,PostgreSQL C: nested json_agg,186,0.216
+localhost,2,PostgreSQL C: nested json_agg,6029,0.174
+localhost,2,PostgreSQL C: nested json_agg,4933,0.1852
+localhost,2,PostgreSQL C: nested json_agg,2347,0.1796
+localhost,2,PostgreSQL C: nested json_agg,10024,0.1623
+localhost,2,PostgreSQL C: nested json_agg,3319,0.1893
+localhost,2,PostgreSQL C: nested json_agg,8494,0.2065
+localhost,2,PostgreSQL C: nested json_agg,2779,0.3195
+localhost,2,PostgreSQL C: nested json_agg,5612,0.1753
+localhost,2,PostgreSQL C: nested json_agg,10814,0.1876
+localhost,2,PostgreSQL C: nested json_agg,7241,0.2957
+localhost,2,PostgreSQL C: nested json_agg,8165,0.4556
+localhost,2,PostgreSQL C: nested json_agg,3957,0.1924
+localhost,2,PostgreSQL C: nested json_agg,5357,0.2225
+localhost,2,PostgreSQL C: nested json_agg,6632,0.1886
+localhost,2,PostgreSQL C: nested json_agg,10911,0.1598
+localhost,2,PostgreSQL C: nested json_agg,4106,0.1887
+localhost,2,PostgreSQL C: nested json_agg,3253,0.1886
+localhost,2,PostgreSQL C: nested json_agg,10391,0.1635
+localhost,2,PostgreSQL C: nested json_agg,7060,0.4217
+localhost,2,PostgreSQL C: nested json_agg,3282,0.1617
+localhost,2,PostgreSQL C: nested json_agg,3510,0.2363
+localhost,2,PostgreSQL C: nested json_agg,6299,0.1946
+localhost,2,PostgreSQL C: nested json_agg,3598,0.2084
+localhost,2,PostgreSQL C: nested json_agg,9554,0.2087
+localhost,2,PostgreSQL C: nested json_agg,5186,0.2854
+localhost,2,PostgreSQL C: nested json_agg,3439,0.2313
+localhost,2,PostgreSQL C: nested json_agg,2232,0.1879
+localhost,2,PostgreSQL C: nested json_agg,2205,0.1972
+localhost,2,PostgreSQL C: nested json_agg,8135,0.2917
+localhost,2,PostgreSQL C: nested json_agg,5747,0.1841
+localhost,2,PostgreSQL C: nested json_agg,665,0.1889
+localhost,2,PostgreSQL C: nested json_agg,1051,0.2297
+localhost,2,PostgreSQL C: nested json_agg,4536,0.1731
+localhost,2,PostgreSQL C: nested json_agg,2772,0.168
+localhost,2,PostgreSQL C: nested json_agg,1849,0.1893
+localhost,2,PostgreSQL C: nested json_agg,7384,0.1812
+localhost,2,PostgreSQL C: nested json_agg,7723,0.1836
+localhost,2,PostgreSQL C: nested json_agg,4509,0.2198
+localhost,2,PostgreSQL C: nested json_agg,3508,0.2011
+localhost,2,PostgreSQL C: nested json_agg,6783,0.2092
+localhost,2,PostgreSQL C: nested json_agg,6268,0.1902
+localhost,2,PostgreSQL C: nested json_agg,10253,0.1655
+localhost,2,PostgreSQL C: nested json_agg,8520,0.1699
+localhost,2,PostgreSQL C: nested json_agg,8092,0.3288
+localhost,2,PostgreSQL C: nested json_agg,11013,0.16
+localhost,2,PostgreSQL C: nested json_agg,5168,0.2948
+localhost,2,PostgreSQL C: nested json_agg,10237,0.1623
+localhost,2,PostgreSQL C: nested json_agg,7414,0.1874
+localhost,2,PostgreSQL C: nested json_agg,5249,0.1908
+localhost,2,PostgreSQL C: nested json_agg,1224,0.2163
+localhost,2,PostgreSQL C: nested json_agg,516,0.2387
+localhost,2,PostgreSQL C: nested json_agg,4557,0.1867
+localhost,2,PostgreSQL C: nested json_agg,9955,0.1755
+localhost,2,PostgreSQL C: nested json_agg,680,0.1941
+localhost,2,PostgreSQL C: nested json_agg,4606,0.1826
+localhost,2,PostgreSQL C: nested json_agg,9349,0.1703
+localhost,2,PostgreSQL C: nested json_agg,5804,0.1764
+localhost,2,PostgreSQL C: nested json_agg,5064,0.2211
+localhost,2,PostgreSQL C: nested json_agg,10638,0.1693
+localhost,2,PostgreSQL C: nested json_agg,9242,0.1828
+localhost,2,PostgreSQL C: nested json_agg,314,0.1799
+localhost,2,PostgreSQL C: nested json_agg,10502,0.1691
+localhost,2,PostgreSQL C: nested json_agg,2227,0.2533
+localhost,2,PostgreSQL C: nested json_agg,6639,0.2844
+localhost,2,PostgreSQL C: nested json_agg,7452,0.193
+localhost,2,PostgreSQL C: nested json_agg,3112,0.1856
+localhost,2,PostgreSQL C: nested json_agg,406,0.1707
+localhost,2,PostgreSQL C: nested json_agg,4365,0.1946
+localhost,2,PostgreSQL C: nested json_agg,3890,0.2413
+localhost,2,PostgreSQL C: nested json_agg,2309,0.2398
+localhost,2,PostgreSQL C: nested json_agg,770,0.1832
+localhost,2,PostgreSQL C: nested json_agg,10309,0.1656
+localhost,2,PostgreSQL C: nested json_agg,1890,0.1918
+localhost,2,PostgreSQL C: nested json_agg,7316,0.1845
+localhost,2,PostgreSQL C: nested json_agg,1787,0.2033
+localhost,2,PostgreSQL C: nested json_agg,10322,0.1694
+localhost,2,PostgreSQL C: nested json_agg,8772,0.2901
+localhost,2,PostgreSQL C: nested json_agg,10733,0.1637
+localhost,2,PostgreSQL C: nested json_agg,10485,0.1676
+localhost,2,PostgreSQL C: nested json_agg,6041,0.1719
+localhost,2,PostgreSQL C: nested json_agg,1278,0.1973
+localhost,2,PostgreSQL C: nested json_agg,3245,0.1851
+localhost,2,PostgreSQL C: nested json_agg,3267,0.2128
+localhost,2,PostgreSQL C: nested json_agg,7785,0.1747
+localhost,2,PostgreSQL C: nested json_agg,4195,0.1892
+localhost,2,PostgreSQL C: nested json_agg,2928,0.1768
+localhost,2,PostgreSQL C: nested json_agg,177,0.1875
+localhost,2,PostgreSQL C: nested json_agg,7737,0.1929
+localhost,2,PostgreSQL C: nested json_agg,8763,0.172
+localhost,2,PostgreSQL C: nested json_agg,593,0.2235
+localhost,2,PostgreSQL C: nested json_agg,2935,0.2018
+localhost,2,PostgreSQL C: nested json_agg,3711,0.2152
+localhost,2,PostgreSQL C: nested json_agg,4463,0.1911
+localhost,2,PostgreSQL C: nested json_agg,5665,0.1959
+localhost,2,PostgreSQL C: nested json_agg,8843,0.1875
+localhost,2,PostgreSQL C: nested json_agg,8527,0.1814
+localhost,2,PostgreSQL C: nested json_agg,8199,0.3214
+localhost,2,PostgreSQL C: nested json_agg,10068,0.1601
+localhost,2,PostgreSQL C: nested json_agg,2609,0.1812
+localhost,2,PostgreSQL C: nested json_agg,6448,0.1876
+localhost,2,PostgreSQL C: nested json_agg,3669,0.1737
+localhost,2,PostgreSQL C: nested json_agg,1429,0.2495
+localhost,2,PostgreSQL C: nested json_agg,6726,0.1828
+localhost,2,PostgreSQL C: nested json_agg,6357,0.3648
+localhost,2,PostgreSQL C: nested json_agg,2129,0.1768
+localhost,2,PostgreSQL C: nested json_agg,7382,0.2519
+localhost,2,PostgreSQL C: nested json_agg,7431,0.1767
+localhost,2,PostgreSQL C: nested json_agg,3226,0.1828
+localhost,2,PostgreSQL C: nested json_agg,10249,0.1533
+localhost,2,PostgreSQL C: nested json_agg,111,0.2268
+localhost,2,PostgreSQL C: nested json_agg,6174,0.201
+localhost,2,PostgreSQL C: nested json_agg,9012,0.167
+localhost,2,PostgreSQL C: nested json_agg,9320,0.1661
+localhost,2,PostgreSQL C: nested json_agg,10694,0.1602
+localhost,2,PostgreSQL C: nested json_agg,8236,0.1867
+localhost,2,PostgreSQL C: nested json_agg,5622,0.2145
+localhost,2,PostgreSQL C: nested json_agg,7598,0.3127
+localhost,2,PostgreSQL C: nested json_agg,5349,0.1635
+localhost,2,PostgreSQL C: nested json_agg,10672,0.157
+localhost,2,PostgreSQL C: nested json_agg,3357,0.2028
+localhost,2,PostgreSQL C: nested json_agg,1622,0.1965
+localhost,2,PostgreSQL C: nested json_agg,10513,0.1663
+localhost,2,PostgreSQL C: nested json_agg,2024,0.296
+localhost,2,PostgreSQL C: nested json_agg,3495,0.1831
+localhost,2,PostgreSQL C: nested json_agg,3970,0.1902
+localhost,2,PostgreSQL C: nested json_agg,6394,0.1922
+localhost,2,PostgreSQL C: nested json_agg,1440,0.1865
+localhost,2,PostgreSQL C: nested json_agg,5077,0.3125
+localhost,2,PostgreSQL C: nested json_agg,8798,0.1798
+localhost,2,PostgreSQL C: nested json_agg,5250,0.1859
+localhost,2,PostgreSQL C: nested json_agg,4291,0.3024
+localhost,2,PostgreSQL C: nested json_agg,257,0.1875
+localhost,2,PostgreSQL C: nested json_agg,5710,0.1905
+localhost,2,PostgreSQL C: nested json_agg,8270,0.1848
+localhost,2,PostgreSQL C: nested json_agg,1357,0.2393
+localhost,2,PostgreSQL C: nested json_agg,609,0.1958
+localhost,2,PostgreSQL C: nested json_agg,7224,0.183
+localhost,2,PostgreSQL C: nested json_agg,5605,0.1863
+localhost,2,PostgreSQL C: nested json_agg,9017,0.1861
+localhost,2,PostgreSQL C: nested json_agg,6905,0.2768
+localhost,2,PostgreSQL C: nested json_agg,4510,0.2527
+localhost,2,PostgreSQL C: nested json_agg,7987,0.2315
+localhost,2,PostgreSQL C: nested json_agg,466,0.1677
+localhost,2,PostgreSQL C: nested json_agg,3577,0.2405
+localhost,2,PostgreSQL C: nested json_agg,1050,0.3326
+localhost,2,PostgreSQL C: nested json_agg,7028,0.2244
+localhost,2,PostgreSQL C: nested json_agg,576,0.1754
+localhost,2,PostgreSQL C: nested json_agg,2833,0.2362
+localhost,2,MongoDB: 3 reads,8948,0.5828
+localhost,2,MongoDB: 3 reads,6026,0.5292
+localhost,2,MongoDB: 3 reads,729,0.5373
+localhost,2,MongoDB: 3 reads,2123,0.5591
+localhost,2,MongoDB: 3 reads,5598,0.5802
+localhost,2,MongoDB: 3 reads,5765,0.5412
+localhost,2,MongoDB: 3 reads,1392,0.5434
+localhost,2,MongoDB: 3 reads,7755,0.5698
+localhost,2,MongoDB: 3 reads,1273,0.5661
+localhost,2,MongoDB: 3 reads,6835,0.5576
+localhost,2,MongoDB: 3 reads,496,0.5649
+localhost,2,MongoDB: 3 reads,8191,0.5506
+localhost,2,MongoDB: 3 reads,9385,0.5666
+localhost,2,MongoDB: 3 reads,239,0.5239
+localhost,2,MongoDB: 3 reads,10240,0.5452
+localhost,2,MongoDB: 3 reads,10851,0.5843
+localhost,2,MongoDB: 3 reads,6265,0.6014
+localhost,2,MongoDB: 3 reads,6213,0.5633
+localhost,2,MongoDB: 3 reads,9547,0.5634
+localhost,2,MongoDB: 3 reads,204,0.5622
+localhost,2,MongoDB: 3 reads,9976,0.6237
+localhost,2,MongoDB: 3 reads,1184,0.5325
+localhost,2,MongoDB: 3 reads,1315,0.5458
+localhost,2,MongoDB: 3 reads,1486,0.554
+localhost,2,MongoDB: 3 reads,10477,0.5312
+localhost,2,MongoDB: 3 reads,1894,0.5363
+localhost,2,MongoDB: 3 reads,4215,0.5504
+localhost,2,MongoDB: 3 reads,6820,0.5545
+localhost,2,MongoDB: 3 reads,5410,0.5932
+localhost,2,MongoDB: 3 reads,6365,0.5646
+localhost,2,MongoDB: 3 reads,9519,0.5563
+localhost,2,MongoDB: 3 reads,7500,0.5707
+localhost,2,MongoDB: 3 reads,7218,0.6141
+localhost,2,MongoDB: 3 reads,7580,0.5571
+localhost,2,MongoDB: 3 reads,8868,0.548
+localhost,2,MongoDB: 3 reads,1373,0.5381
+localhost,2,MongoDB: 3 reads,8499,0.5316
+localhost,2,MongoDB: 3 reads,8431,0.5584
+localhost,2,MongoDB: 3 reads,489,0.5615
+localhost,2,MongoDB: 3 reads,5083,0.5415
+localhost,2,MongoDB: 3 reads,9852,0.5328
+localhost,2,MongoDB: 3 reads,1438,0.5986
+localhost,2,MongoDB: 3 reads,7880,0.5955
+localhost,2,MongoDB: 3 reads,366,0.551
+localhost,2,MongoDB: 3 reads,3772,0.6465
+localhost,2,MongoDB: 3 reads,1850,0.5639
+localhost,2,MongoDB: 3 reads,8147,0.5509
+localhost,2,MongoDB: 3 reads,10069,0.5364
+localhost,2,MongoDB: 3 reads,10816,0.5722
+localhost,2,MongoDB: 3 reads,7968,0.5414
+localhost,2,MongoDB: 3 reads,4192,0.5538
+localhost,2,MongoDB: 3 reads,186,0.539
+localhost,2,MongoDB: 3 reads,6029,0.522
+localhost,2,MongoDB: 3 reads,4933,0.549
+localhost,2,MongoDB: 3 reads,2347,0.5251
+localhost,2,MongoDB: 3 reads,10024,0.543
+localhost,2,MongoDB: 3 reads,3319,0.5577
+localhost,2,MongoDB: 3 reads,8494,0.5778
+localhost,2,MongoDB: 3 reads,2779,0.6367
+localhost,2,MongoDB: 3 reads,5612,0.5637
+localhost,2,MongoDB: 3 reads,10814,0.5271
+localhost,2,MongoDB: 3 reads,7241,0.5949
+localhost,2,MongoDB: 3 reads,8165,0.6697
+localhost,2,MongoDB: 3 reads,3957,0.5411
+localhost,2,MongoDB: 3 reads,5357,0.5667
+localhost,2,MongoDB: 3 reads,6632,0.5725
+localhost,2,MongoDB: 3 reads,10911,0.5404
+localhost,2,MongoDB: 3 reads,4106,0.5452
+localhost,2,MongoDB: 3 reads,3253,0.5316
+localhost,2,MongoDB: 3 reads,10391,0.5378
+localhost,2,MongoDB: 3 reads,7060,0.658
+localhost,2,MongoDB: 3 reads,3282,0.5722
+localhost,2,MongoDB: 3 reads,3510,0.56
+localhost,2,MongoDB: 3 reads,6299,0.547
+localhost,2,MongoDB: 3 reads,3598,0.5815
+localhost,2,MongoDB: 3 reads,9554,0.5707
+localhost,2,MongoDB: 3 reads,5186,0.6101
+localhost,2,MongoDB: 3 reads,3439,0.5773
+localhost,2,MongoDB: 3 reads,2232,0.5499
+localhost,2,MongoDB: 3 reads,2205,0.5662
+localhost,2,MongoDB: 3 reads,8135,0.6207
+localhost,2,MongoDB: 3 reads,5747,0.5559
+localhost,2,MongoDB: 3 reads,665,0.548
+localhost,2,MongoDB: 3 reads,1051,0.5707
+localhost,2,MongoDB: 3 reads,4536,0.5719
+localhost,2,MongoDB: 3 reads,2772,0.5372
+localhost,2,MongoDB: 3 reads,1849,0.566
+localhost,2,MongoDB: 3 reads,7384,0.5674
+localhost,2,MongoDB: 3 reads,7723,0.6102
+localhost,2,MongoDB: 3 reads,4509,0.6703
+localhost,2,MongoDB: 3 reads,3508,0.5533
+localhost,2,MongoDB: 3 reads,6783,0.5541
+localhost,2,MongoDB: 3 reads,6268,0.608
+localhost,2,MongoDB: 3 reads,10253,0.551
+localhost,2,MongoDB: 3 reads,8520,0.5392
+localhost,2,MongoDB: 3 reads,8092,0.616
+localhost,2,MongoDB: 3 reads,11013,0.5853
+localhost,2,MongoDB: 3 reads,5168,0.6263
+localhost,2,MongoDB: 3 reads,10237,0.5343
+localhost,2,MongoDB: 3 reads,7414,0.5482
+localhost,2,MongoDB: 3 reads,5249,0.553
+localhost,2,MongoDB: 3 reads,1224,0.6022
+localhost,2,MongoDB: 3 reads,516,0.5891
+localhost,2,MongoDB: 3 reads,4557,0.5528
+localhost,2,MongoDB: 3 reads,9955,0.563
+localhost,2,MongoDB: 3 reads,680,0.5417
+localhost,2,MongoDB: 3 reads,4606,0.5348
+localhost,2,MongoDB: 3 reads,9349,0.5395
+localhost,2,MongoDB: 3 reads,5804,0.5443
+localhost,2,MongoDB: 3 reads,5064,0.5574
+localhost,2,MongoDB: 3 reads,10638,0.5112
+localhost,2,MongoDB: 3 reads,9242,0.5316
+localhost,2,MongoDB: 3 reads,314,0.5178
+localhost,2,MongoDB: 3 reads,10502,0.5275
+localhost,2,MongoDB: 3 reads,2227,0.5929
+localhost,2,MongoDB: 3 reads,6639,0.5952
+localhost,2,MongoDB: 3 reads,7452,0.5719
+localhost,2,MongoDB: 3 reads,3112,0.5492
+localhost,2,MongoDB: 3 reads,406,0.5575
+localhost,2,MongoDB: 3 reads,4365,0.5509
+localhost,2,MongoDB: 3 reads,3890,0.5796
+localhost,2,MongoDB: 3 reads,2309,0.5945
+localhost,2,MongoDB: 3 reads,770,0.5292
+localhost,2,MongoDB: 3 reads,10309,0.5243
+localhost,2,MongoDB: 3 reads,1890,0.5171
+localhost,2,MongoDB: 3 reads,7316,0.5361
+localhost,2,MongoDB: 3 reads,1787,0.5537
+localhost,2,MongoDB: 3 reads,10322,0.5364
+localhost,2,MongoDB: 3 reads,8772,0.5804
+localhost,2,MongoDB: 3 reads,10733,0.5431
+localhost,2,MongoDB: 3 reads,10485,0.5539
+localhost,2,MongoDB: 3 reads,6041,0.524
+localhost,2,MongoDB: 3 reads,1278,0.5589
+localhost,2,MongoDB: 3 reads,3245,0.5798
+localhost,2,MongoDB: 3 reads,3267,0.5798
+localhost,2,MongoDB: 3 reads,7785,0.5299
+localhost,2,MongoDB: 3 reads,4195,0.5591
+localhost,2,MongoDB: 3 reads,2928,0.5694
+localhost,2,MongoDB: 3 reads,177,0.5519
+localhost,2,MongoDB: 3 reads,7737,0.5659
+localhost,2,MongoDB: 3 reads,8763,0.5501
+localhost,2,MongoDB: 3 reads,593,0.5501
+localhost,2,MongoDB: 3 reads,2935,0.5579
+localhost,2,MongoDB: 3 reads,3711,0.5255
+localhost,2,MongoDB: 3 reads,4463,0.538
+localhost,2,MongoDB: 3 reads,5665,0.5512
+localhost,2,MongoDB: 3 reads,8843,0.603
+localhost,2,MongoDB: 3 reads,8527,0.5383
+localhost,2,MongoDB: 3 reads,8199,0.5958
+localhost,2,MongoDB: 3 reads,10068,0.5412
+localhost,2,MongoDB: 3 reads,2609,0.5593
+localhost,2,MongoDB: 3 reads,6448,0.5603
+localhost,2,MongoDB: 3 reads,3669,0.5732
+localhost,2,MongoDB: 3 reads,1429,0.561
+localhost,2,MongoDB: 3 reads,6726,0.533
+localhost,2,MongoDB: 3 reads,6357,0.6691
+localhost,2,MongoDB: 3 reads,2129,0.5266
+localhost,2,MongoDB: 3 reads,7382,0.5622
+localhost,2,MongoDB: 3 reads,7431,0.5313
+localhost,2,MongoDB: 3 reads,3226,0.5319
+localhost,2,MongoDB: 3 reads,10249,0.5285
+localhost,2,MongoDB: 3 reads,111,0.5903
+localhost,2,MongoDB: 3 reads,6174,0.5463
+localhost,2,MongoDB: 3 reads,9012,0.5338
+localhost,2,MongoDB: 3 reads,9320,0.5161
+localhost,2,MongoDB: 3 reads,10694,0.5307
+localhost,2,MongoDB: 3 reads,8236,0.5443
+localhost,2,MongoDB: 3 reads,5622,0.5287
+localhost,2,MongoDB: 3 reads,7598,0.5984
+localhost,2,MongoDB: 3 reads,5349,0.5072
+localhost,2,MongoDB: 3 reads,10672,0.5145
+localhost,2,MongoDB: 3 reads,3357,0.524
+localhost,2,MongoDB: 3 reads,1622,0.5091
+localhost,2,MongoDB: 3 reads,10513,0.5295
+localhost,2,MongoDB: 3 reads,2024,0.6035
+localhost,2,MongoDB: 3 reads,3495,0.518
+localhost,2,MongoDB: 3 reads,3970,0.5467
+localhost,2,MongoDB: 3 reads,6394,0.5524
+localhost,2,MongoDB: 3 reads,1440,0.5432
+localhost,2,MongoDB: 3 reads,5077,0.6142
+localhost,2,MongoDB: 3 reads,8798,0.5305
+localhost,2,MongoDB: 3 reads,5250,0.531
+localhost,2,MongoDB: 3 reads,4291,0.5498
+localhost,2,MongoDB: 3 reads,257,0.5516
+localhost,2,MongoDB: 3 reads,5710,0.5728
+localhost,2,MongoDB: 3 reads,8270,0.5088
+localhost,2,MongoDB: 3 reads,1357,0.4594
+localhost,2,MongoDB: 3 reads,609,0.4443
+localhost,2,MongoDB: 3 reads,7224,0.4379
+localhost,2,MongoDB: 3 reads,5605,0.4318
+localhost,2,MongoDB: 3 reads,9017,0.4297
+localhost,2,MongoDB: 3 reads,6905,0.4569
+localhost,2,MongoDB: 3 reads,4510,0.4831
+localhost,2,MongoDB: 3 reads,7987,0.5019
+localhost,2,MongoDB: 3 reads,466,0.5663
+localhost,2,MongoDB: 3 reads,3577,0.5828
+localhost,2,MongoDB: 3 reads,1050,0.6273
+localhost,2,MongoDB: 3 reads,7028,0.5546
+localhost,2,MongoDB: 3 reads,576,0.5238
+localhost,2,MongoDB: 3 reads,2833,0.5603
+localhost,3,PostgreSQL A: one 10-table join,8425,0.775
+localhost,3,PostgreSQL A: one 10-table join,9175,0.2623
+localhost,3,PostgreSQL A: one 10-table join,4203,0.206
+localhost,3,PostgreSQL A: one 10-table join,5107,0.2328
+localhost,3,PostgreSQL A: one 10-table join,10999,0.182
+localhost,3,PostgreSQL A: one 10-table join,6246,0.1907
+localhost,3,PostgreSQL A: one 10-table join,9985,0.2822
+localhost,3,PostgreSQL A: one 10-table join,3412,0.5949
+localhost,3,PostgreSQL A: one 10-table join,4989,0.2315
+localhost,3,PostgreSQL A: one 10-table join,2313,1.6659
+localhost,3,PostgreSQL A: one 10-table join,8925,0.2254
+localhost,3,PostgreSQL A: one 10-table join,8589,0.301
+localhost,3,PostgreSQL A: one 10-table join,4473,0.2909
+localhost,3,PostgreSQL A: one 10-table join,9388,0.2282
+localhost,3,PostgreSQL A: one 10-table join,8154,0.2076
+localhost,3,PostgreSQL A: one 10-table join,3293,0.2008
+localhost,3,PostgreSQL A: one 10-table join,6736,0.2195
+localhost,3,PostgreSQL A: one 10-table join,8781,0.2315
+localhost,3,PostgreSQL A: one 10-table join,1873,0.6537
+localhost,3,PostgreSQL A: one 10-table join,8245,0.189
+localhost,3,PostgreSQL A: one 10-table join,81,4.8332
+localhost,3,PostgreSQL A: one 10-table join,9917,3.7202
+localhost,3,PostgreSQL A: one 10-table join,6178,0.316
+localhost,3,PostgreSQL A: one 10-table join,455,0.6056
+localhost,3,PostgreSQL A: one 10-table join,8820,0.2233
+localhost,3,PostgreSQL A: one 10-table join,721,0.6419
+localhost,3,PostgreSQL A: one 10-table join,8455,0.2549
+localhost,3,PostgreSQL A: one 10-table join,6564,0.2344
+localhost,3,PostgreSQL A: one 10-table join,8913,0.1687
+localhost,3,PostgreSQL A: one 10-table join,9223,0.925
+localhost,3,PostgreSQL A: one 10-table join,1998,0.2482
+localhost,3,PostgreSQL A: one 10-table join,8046,0.6301
+localhost,3,PostgreSQL A: one 10-table join,1528,2.3984
+localhost,3,PostgreSQL A: one 10-table join,2733,0.2479
+localhost,3,PostgreSQL A: one 10-table join,1080,0.2151
+localhost,3,PostgreSQL A: one 10-table join,8827,0.3449
+localhost,3,PostgreSQL A: one 10-table join,7520,0.2039
+localhost,3,PostgreSQL A: one 10-table join,6780,1.981
+localhost,3,PostgreSQL A: one 10-table join,6622,0.3545
+localhost,3,PostgreSQL A: one 10-table join,4411,0.2608
+localhost,3,PostgreSQL A: one 10-table join,4036,0.284
+localhost,3,PostgreSQL A: one 10-table join,7753,1.8003
+localhost,3,PostgreSQL A: one 10-table join,8078,0.3208
+localhost,3,PostgreSQL A: one 10-table join,2081,0.2939
+localhost,3,PostgreSQL A: one 10-table join,5566,1.6223
+localhost,3,PostgreSQL A: one 10-table join,7106,0.2477
+localhost,3,PostgreSQL A: one 10-table join,7808,0.3293
+localhost,3,PostgreSQL A: one 10-table join,8602,0.3736
+localhost,3,PostgreSQL A: one 10-table join,5198,0.2035
+localhost,3,PostgreSQL A: one 10-table join,1780,10.6564
+localhost,3,PostgreSQL A: one 10-table join,3137,2.6567
+localhost,3,PostgreSQL A: one 10-table join,6874,0.2337
+localhost,3,PostgreSQL A: one 10-table join,10124,0.2207
+localhost,3,PostgreSQL A: one 10-table join,482,0.2734
+localhost,3,PostgreSQL A: one 10-table join,4264,0.2157
+localhost,3,PostgreSQL A: one 10-table join,2122,0.4843
+localhost,3,PostgreSQL A: one 10-table join,374,0.3866
+localhost,3,PostgreSQL A: one 10-table join,584,0.2484
+localhost,3,PostgreSQL A: one 10-table join,3181,0.2418
+localhost,3,PostgreSQL A: one 10-table join,2549,2.0573
+localhost,3,PostgreSQL A: one 10-table join,3724,0.2857
+localhost,3,PostgreSQL A: one 10-table join,194,0.2642
+localhost,3,PostgreSQL A: one 10-table join,4655,0.3375
+localhost,3,PostgreSQL A: one 10-table join,5277,0.2613
+localhost,3,PostgreSQL A: one 10-table join,5823,0.2877
+localhost,3,PostgreSQL A: one 10-table join,4006,0.2234
+localhost,3,PostgreSQL A: one 10-table join,10155,0.1804
+localhost,3,PostgreSQL A: one 10-table join,8173,9.8025
+localhost,3,PostgreSQL A: one 10-table join,1719,0.2459
+localhost,3,PostgreSQL A: one 10-table join,8187,0.3107
+localhost,3,PostgreSQL A: one 10-table join,9540,0.1955
+localhost,3,PostgreSQL A: one 10-table join,2012,0.6324
+localhost,3,PostgreSQL A: one 10-table join,8364,0.3298
+localhost,3,PostgreSQL A: one 10-table join,10216,0.1773
+localhost,3,PostgreSQL A: one 10-table join,4106,0.2895
+localhost,3,PostgreSQL A: one 10-table join,3240,0.2202
+localhost,3,PostgreSQL A: one 10-table join,8690,2.266
+localhost,3,PostgreSQL A: one 10-table join,7157,1.6222
+localhost,3,PostgreSQL A: one 10-table join,381,0.2798
+localhost,3,PostgreSQL A: one 10-table join,6157,0.2574
+localhost,3,PostgreSQL A: one 10-table join,10372,0.1873
+localhost,3,PostgreSQL A: one 10-table join,6774,0.373
+localhost,3,PostgreSQL A: one 10-table join,8673,1.6166
+localhost,3,PostgreSQL A: one 10-table join,10090,0.1958
+localhost,3,PostgreSQL A: one 10-table join,2617,0.3173
+localhost,3,PostgreSQL A: one 10-table join,8818,0.3081
+localhost,3,PostgreSQL A: one 10-table join,3347,0.2182
+localhost,3,PostgreSQL A: one 10-table join,10344,0.2059
+localhost,3,PostgreSQL A: one 10-table join,8750,0.2178
+localhost,3,PostgreSQL A: one 10-table join,10461,0.1786
+localhost,3,PostgreSQL A: one 10-table join,3578,0.2417
+localhost,3,PostgreSQL A: one 10-table join,8678,2.0065
+localhost,3,PostgreSQL A: one 10-table join,3542,0.3883
+localhost,3,PostgreSQL A: one 10-table join,8896,0.3135
+localhost,3,PostgreSQL A: one 10-table join,10023,0.1803
+localhost,3,PostgreSQL A: one 10-table join,9612,0.231
+localhost,3,PostgreSQL A: one 10-table join,2236,0.244
+localhost,3,PostgreSQL A: one 10-table join,3812,0.308
+localhost,3,PostgreSQL A: one 10-table join,10288,0.1817
+localhost,3,PostgreSQL A: one 10-table join,5696,0.2347
+localhost,3,PostgreSQL A: one 10-table join,2968,0.7561
+localhost,3,PostgreSQL A: one 10-table join,5176,0.2616
+localhost,3,PostgreSQL A: one 10-table join,9882,3.5834
+localhost,3,PostgreSQL A: one 10-table join,5161,0.1985
+localhost,3,PostgreSQL A: one 10-table join,3190,0.2044
+localhost,3,PostgreSQL A: one 10-table join,3575,0.2511
+localhost,3,PostgreSQL A: one 10-table join,3188,0.2673
+localhost,3,PostgreSQL A: one 10-table join,1587,0.2215
+localhost,3,PostgreSQL A: one 10-table join,2195,0.2677
+localhost,3,PostgreSQL A: one 10-table join,3922,0.9166
+localhost,3,PostgreSQL A: one 10-table join,2172,0.194
+localhost,3,PostgreSQL A: one 10-table join,1445,0.2666
+localhost,3,PostgreSQL A: one 10-table join,4252,0.272
+localhost,3,PostgreSQL A: one 10-table join,6356,6.6485
+localhost,3,PostgreSQL A: one 10-table join,1590,0.2449
+localhost,3,PostgreSQL A: one 10-table join,7124,0.2013
+localhost,3,PostgreSQL A: one 10-table join,6908,0.3395
+localhost,3,PostgreSQL A: one 10-table join,8902,0.215
+localhost,3,PostgreSQL A: one 10-table join,2065,0.2637
+localhost,3,PostgreSQL A: one 10-table join,3288,0.2062
+localhost,3,PostgreSQL A: one 10-table join,6600,0.2418
+localhost,3,PostgreSQL A: one 10-table join,10290,0.1801
+localhost,3,PostgreSQL A: one 10-table join,291,4.5193
+localhost,3,PostgreSQL A: one 10-table join,1574,0.3158
+localhost,3,PostgreSQL A: one 10-table join,3293,0.2074
+localhost,3,PostgreSQL A: one 10-table join,9338,0.5425
+localhost,3,PostgreSQL A: one 10-table join,5859,0.4795
+localhost,3,PostgreSQL A: one 10-table join,5920,0.2464
+localhost,3,PostgreSQL A: one 10-table join,1891,0.698
+localhost,3,PostgreSQL A: one 10-table join,8286,0.2499
+localhost,3,PostgreSQL A: one 10-table join,10399,0.1756
+localhost,3,PostgreSQL A: one 10-table join,5628,0.2768
+localhost,3,PostgreSQL A: one 10-table join,8238,3.6281
+localhost,3,PostgreSQL A: one 10-table join,3097,0.3348
+localhost,3,PostgreSQL A: one 10-table join,1156,0.3408
+localhost,3,PostgreSQL A: one 10-table join,7899,0.2644
+localhost,3,PostgreSQL A: one 10-table join,1740,0.3204
+localhost,3,PostgreSQL A: one 10-table join,399,0.3051
+localhost,3,PostgreSQL A: one 10-table join,614,0.2312
+localhost,3,PostgreSQL A: one 10-table join,9039,0.2161
+localhost,3,PostgreSQL A: one 10-table join,10050,0.1783
+localhost,3,PostgreSQL A: one 10-table join,8435,0.242
+localhost,3,PostgreSQL A: one 10-table join,9319,0.1908
+localhost,3,PostgreSQL A: one 10-table join,7886,0.1729
+localhost,3,PostgreSQL A: one 10-table join,2402,0.2526
+localhost,3,PostgreSQL A: one 10-table join,3106,0.2704
+localhost,3,PostgreSQL A: one 10-table join,3024,0.1775
+localhost,3,PostgreSQL A: one 10-table join,1884,0.2136
+localhost,3,PostgreSQL A: one 10-table join,3341,0.3161
+localhost,3,PostgreSQL A: one 10-table join,2827,0.3504
+localhost,3,PostgreSQL A: one 10-table join,2590,0.1723
+localhost,3,PostgreSQL A: one 10-table join,4639,0.257
+localhost,3,PostgreSQL A: one 10-table join,11026,0.1998
+localhost,3,PostgreSQL A: one 10-table join,1561,0.1847
+localhost,3,PostgreSQL A: one 10-table join,9500,0.255
+localhost,3,PostgreSQL A: one 10-table join,1015,0.2098
+localhost,3,PostgreSQL A: one 10-table join,2203,2.7321
+localhost,3,PostgreSQL A: one 10-table join,7571,0.3058
+localhost,3,PostgreSQL A: one 10-table join,1272,0.2415
+localhost,3,PostgreSQL A: one 10-table join,1585,0.2922
+localhost,3,PostgreSQL A: one 10-table join,5355,1.4867
+localhost,3,PostgreSQL A: one 10-table join,6405,0.8124
+localhost,3,PostgreSQL A: one 10-table join,7651,0.2064
+localhost,3,PostgreSQL A: one 10-table join,6987,0.2582
+localhost,3,PostgreSQL A: one 10-table join,8443,0.2547
+localhost,3,PostgreSQL A: one 10-table join,5810,1.0381
+localhost,3,PostgreSQL A: one 10-table join,7047,0.3038
+localhost,3,PostgreSQL A: one 10-table join,3443,0.1858
+localhost,3,PostgreSQL A: one 10-table join,9846,0.241
+localhost,3,PostgreSQL A: one 10-table join,6114,0.2402
+localhost,3,PostgreSQL A: one 10-table join,218,0.2039
+localhost,3,PostgreSQL A: one 10-table join,10388,0.1814
+localhost,3,PostgreSQL A: one 10-table join,670,0.2083
+localhost,3,PostgreSQL A: one 10-table join,3282,0.1931
+localhost,3,PostgreSQL A: one 10-table join,2970,0.2503
+localhost,3,PostgreSQL A: one 10-table join,6684,0.1952
+localhost,3,PostgreSQL A: one 10-table join,7438,0.2027
+localhost,3,PostgreSQL A: one 10-table join,5892,0.2822
+localhost,3,PostgreSQL A: one 10-table join,6066,0.2584
+localhost,3,PostgreSQL A: one 10-table join,6641,0.3158
+localhost,3,PostgreSQL A: one 10-table join,3197,0.2065
+localhost,3,PostgreSQL A: one 10-table join,9911,0.2879
+localhost,3,PostgreSQL A: one 10-table join,2705,0.2332
+localhost,3,PostgreSQL A: one 10-table join,1554,0.2129
+localhost,3,PostgreSQL A: one 10-table join,8398,0.1768
+localhost,3,PostgreSQL A: one 10-table join,253,0.2205
+localhost,3,PostgreSQL A: one 10-table join,5304,0.1885
+localhost,3,PostgreSQL A: one 10-table join,1390,0.365
+localhost,3,PostgreSQL A: one 10-table join,10312,0.172
+localhost,3,PostgreSQL A: one 10-table join,6628,0.2675
+localhost,3,PostgreSQL A: one 10-table join,9334,5.9432
+localhost,3,PostgreSQL A: one 10-table join,9824,0.2654
+localhost,3,PostgreSQL A: one 10-table join,3129,0.3763
+localhost,3,PostgreSQL A: one 10-table join,8263,0.4285
+localhost,3,PostgreSQL A: one 10-table join,9579,0.2053
+localhost,3,PostgreSQL A: one 10-table join,5587,0.2506
+localhost,3,PostgreSQL A: one 10-table join,4232,3.4865
+localhost,3,PostgreSQL A: one 10-table join,4580,1.1742
+localhost,3,PostgreSQL A: one 10-table join,1906,1.8581
+localhost,3,PostgreSQL A: one 10-table join,2623,0.2814
+localhost,3,PostgreSQL B: 7 queries,8425,0.9596
+localhost,3,PostgreSQL B: 7 queries,9175,0.9134
+localhost,3,PostgreSQL B: 7 queries,4203,0.8753
+localhost,3,PostgreSQL B: 7 queries,5107,0.8995
+localhost,3,PostgreSQL B: 7 queries,10999,0.8864
+localhost,3,PostgreSQL B: 7 queries,6246,0.8803
+localhost,3,PostgreSQL B: 7 queries,9985,0.8963
+localhost,3,PostgreSQL B: 7 queries,3412,0.9343
+localhost,3,PostgreSQL B: 7 queries,4989,0.9052
+localhost,3,PostgreSQL B: 7 queries,2313,0.9513
+localhost,3,PostgreSQL B: 7 queries,8925,0.8999
+localhost,3,PostgreSQL B: 7 queries,8589,0.9066
+localhost,3,PostgreSQL B: 7 queries,4473,0.8912
+localhost,3,PostgreSQL B: 7 queries,9388,0.8777
+localhost,3,PostgreSQL B: 7 queries,8154,0.8827
+localhost,3,PostgreSQL B: 7 queries,3293,0.9221
+localhost,3,PostgreSQL B: 7 queries,6736,1.084
+localhost,3,PostgreSQL B: 7 queries,8781,0.8777
+localhost,3,PostgreSQL B: 7 queries,1873,0.8848
+localhost,3,PostgreSQL B: 7 queries,8245,0.8769
+localhost,3,PostgreSQL B: 7 queries,81,0.9695
+localhost,3,PostgreSQL B: 7 queries,9917,0.9385
+localhost,3,PostgreSQL B: 7 queries,6178,0.8666
+localhost,3,PostgreSQL B: 7 queries,455,0.8938
+localhost,3,PostgreSQL B: 7 queries,8820,0.8596
+localhost,3,PostgreSQL B: 7 queries,721,0.9004
+localhost,3,PostgreSQL B: 7 queries,8455,0.8712
+localhost,3,PostgreSQL B: 7 queries,6564,0.89
+localhost,3,PostgreSQL B: 7 queries,8913,0.8458
+localhost,3,PostgreSQL B: 7 queries,9223,0.9196
+localhost,3,PostgreSQL B: 7 queries,1998,0.8756
+localhost,3,PostgreSQL B: 7 queries,8046,0.8735
+localhost,3,PostgreSQL B: 7 queries,1528,0.914
+localhost,3,PostgreSQL B: 7 queries,2733,0.9
+localhost,3,PostgreSQL B: 7 queries,1080,0.8628
+localhost,3,PostgreSQL B: 7 queries,8827,0.9116
+localhost,3,PostgreSQL B: 7 queries,7520,0.8918
+localhost,3,PostgreSQL B: 7 queries,6780,0.918
+localhost,3,PostgreSQL B: 7 queries,6622,0.8589
+localhost,3,PostgreSQL B: 7 queries,4411,0.8754
+localhost,3,PostgreSQL B: 7 queries,4036,0.8389
+localhost,3,PostgreSQL B: 7 queries,7753,0.9465
+localhost,3,PostgreSQL B: 7 queries,8078,0.8654
+localhost,3,PostgreSQL B: 7 queries,2081,0.8636
+localhost,3,PostgreSQL B: 7 queries,5566,0.9821
+localhost,3,PostgreSQL B: 7 queries,7106,0.8725
+localhost,3,PostgreSQL B: 7 queries,7808,0.9026
+localhost,3,PostgreSQL B: 7 queries,8602,0.8825
+localhost,3,PostgreSQL B: 7 queries,5198,0.8745
+localhost,3,PostgreSQL B: 7 queries,1780,1.0266
+localhost,3,PostgreSQL B: 7 queries,3137,0.9326
+localhost,3,PostgreSQL B: 7 queries,6874,0.8749
+localhost,3,PostgreSQL B: 7 queries,10124,0.865
+localhost,3,PostgreSQL B: 7 queries,482,0.9361
+localhost,3,PostgreSQL B: 7 queries,4264,0.87
+localhost,3,PostgreSQL B: 7 queries,2122,0.8892
+localhost,3,PostgreSQL B: 7 queries,374,0.8759
+localhost,3,PostgreSQL B: 7 queries,584,0.8426
+localhost,3,PostgreSQL B: 7 queries,3181,0.8361
+localhost,3,PostgreSQL B: 7 queries,2549,0.9042
+localhost,3,PostgreSQL B: 7 queries,3724,0.8936
+localhost,3,PostgreSQL B: 7 queries,194,0.8698
+localhost,3,PostgreSQL B: 7 queries,4655,0.9115
+localhost,3,PostgreSQL B: 7 queries,5277,0.9003
+localhost,3,PostgreSQL B: 7 queries,5823,0.9051
+localhost,3,PostgreSQL B: 7 queries,4006,0.8617
+localhost,3,PostgreSQL B: 7 queries,10155,0.8788
+localhost,3,PostgreSQL B: 7 queries,8173,0.9402
+localhost,3,PostgreSQL B: 7 queries,1719,0.8988
+localhost,3,PostgreSQL B: 7 queries,8187,0.8638
+localhost,3,PostgreSQL B: 7 queries,9540,0.8823
+localhost,3,PostgreSQL B: 7 queries,2012,0.9332
+localhost,3,PostgreSQL B: 7 queries,8364,0.9282
+localhost,3,PostgreSQL B: 7 queries,10216,0.8736
+localhost,3,PostgreSQL B: 7 queries,4106,0.89
+localhost,3,PostgreSQL B: 7 queries,3240,0.8617
+localhost,3,PostgreSQL B: 7 queries,8690,0.9503
+localhost,3,PostgreSQL B: 7 queries,7157,0.9613
+localhost,3,PostgreSQL B: 7 queries,381,0.8702
+localhost,3,PostgreSQL B: 7 queries,6157,0.8966
+localhost,3,PostgreSQL B: 7 queries,10372,0.845
+localhost,3,PostgreSQL B: 7 queries,6774,0.8748
+localhost,3,PostgreSQL B: 7 queries,8673,0.898
+localhost,3,PostgreSQL B: 7 queries,10090,0.8713
+localhost,3,PostgreSQL B: 7 queries,2617,0.8609
+localhost,3,PostgreSQL B: 7 queries,8818,0.877
+localhost,3,PostgreSQL B: 7 queries,3347,0.8548
+localhost,3,PostgreSQL B: 7 queries,10344,0.8279
+localhost,3,PostgreSQL B: 7 queries,8750,0.8612
+localhost,3,PostgreSQL B: 7 queries,10461,0.8723
+localhost,3,PostgreSQL B: 7 queries,3578,0.8952
+localhost,3,PostgreSQL B: 7 queries,8678,0.9764
+localhost,3,PostgreSQL B: 7 queries,3542,0.8954
+localhost,3,PostgreSQL B: 7 queries,8896,0.8833
+localhost,3,PostgreSQL B: 7 queries,10023,0.8569
+localhost,3,PostgreSQL B: 7 queries,9612,0.8506
+localhost,3,PostgreSQL B: 7 queries,2236,0.8529
+localhost,3,PostgreSQL B: 7 queries,3812,0.8846
+localhost,3,PostgreSQL B: 7 queries,10288,0.8338
+localhost,3,PostgreSQL B: 7 queries,5696,0.8764
+localhost,3,PostgreSQL B: 7 queries,2968,0.9547
+localhost,3,PostgreSQL B: 7 queries,5176,0.8935
+localhost,3,PostgreSQL B: 7 queries,9882,0.9837
+localhost,3,PostgreSQL B: 7 queries,5161,0.8612
+localhost,3,PostgreSQL B: 7 queries,3190,0.8591
+localhost,3,PostgreSQL B: 7 queries,3575,0.9076
+localhost,3,PostgreSQL B: 7 queries,3188,0.8505
+localhost,3,PostgreSQL B: 7 queries,1587,0.8353
+localhost,3,PostgreSQL B: 7 queries,2195,0.8648
+localhost,3,PostgreSQL B: 7 queries,3922,0.8808
+localhost,3,PostgreSQL B: 7 queries,2172,0.8669
+localhost,3,PostgreSQL B: 7 queries,1445,0.9034
+localhost,3,PostgreSQL B: 7 queries,4252,0.8941
+localhost,3,PostgreSQL B: 7 queries,6356,0.9079
+localhost,3,PostgreSQL B: 7 queries,1590,0.8916
+localhost,3,PostgreSQL B: 7 queries,7124,0.8696
+localhost,3,PostgreSQL B: 7 queries,6908,0.9009
+localhost,3,PostgreSQL B: 7 queries,8902,0.8706
+localhost,3,PostgreSQL B: 7 queries,2065,0.8727
+localhost,3,PostgreSQL B: 7 queries,3288,0.8758
+localhost,3,PostgreSQL B: 7 queries,6600,0.8892
+localhost,3,PostgreSQL B: 7 queries,10290,0.8163
+localhost,3,PostgreSQL B: 7 queries,291,0.8808
+localhost,3,PostgreSQL B: 7 queries,1574,0.8681
+localhost,3,PostgreSQL B: 7 queries,3293,0.903
+localhost,3,PostgreSQL B: 7 queries,9338,0.8535
+localhost,3,PostgreSQL B: 7 queries,5859,0.8759
+localhost,3,PostgreSQL B: 7 queries,5920,0.897
+localhost,3,PostgreSQL B: 7 queries,1891,0.8942
+localhost,3,PostgreSQL B: 7 queries,8286,0.8834
+localhost,3,PostgreSQL B: 7 queries,10399,0.9002
+localhost,3,PostgreSQL B: 7 queries,5628,0.9206
+localhost,3,PostgreSQL B: 7 queries,8238,0.9551
+localhost,3,PostgreSQL B: 7 queries,3097,0.9455
+localhost,3,PostgreSQL B: 7 queries,1156,0.9358
+localhost,3,PostgreSQL B: 7 queries,7899,0.8728
+localhost,3,PostgreSQL B: 7 queries,1740,0.9141
+localhost,3,PostgreSQL B: 7 queries,399,0.8825
+localhost,3,PostgreSQL B: 7 queries,614,0.8645
+localhost,3,PostgreSQL B: 7 queries,9039,0.8437
+localhost,3,PostgreSQL B: 7 queries,10050,0.8691
+localhost,3,PostgreSQL B: 7 queries,8435,0.9179
+localhost,3,PostgreSQL B: 7 queries,9319,0.8562
+localhost,3,PostgreSQL B: 7 queries,7886,0.8879
+localhost,3,PostgreSQL B: 7 queries,2402,0.9031
+localhost,3,PostgreSQL B: 7 queries,3106,0.8523
+localhost,3,PostgreSQL B: 7 queries,3024,0.8499
+localhost,3,PostgreSQL B: 7 queries,1884,0.8713
+localhost,3,PostgreSQL B: 7 queries,3341,0.881
+localhost,3,PostgreSQL B: 7 queries,2827,0.8977
+localhost,3,PostgreSQL B: 7 queries,2590,0.8706
+localhost,3,PostgreSQL B: 7 queries,4639,0.9009
+localhost,3,PostgreSQL B: 7 queries,11026,0.8865
+localhost,3,PostgreSQL B: 7 queries,1561,0.8616
+localhost,3,PostgreSQL B: 7 queries,9500,0.846
+localhost,3,PostgreSQL B: 7 queries,1015,0.838
+localhost,3,PostgreSQL B: 7 queries,2203,0.9335
+localhost,3,PostgreSQL B: 7 queries,7571,0.9197
+localhost,3,PostgreSQL B: 7 queries,1272,0.905
+localhost,3,PostgreSQL B: 7 queries,1585,0.9238
+localhost,3,PostgreSQL B: 7 queries,5355,0.9155
+localhost,3,PostgreSQL B: 7 queries,6405,0.9008
+localhost,3,PostgreSQL B: 7 queries,7651,0.8968
+localhost,3,PostgreSQL B: 7 queries,6987,0.8964
+localhost,3,PostgreSQL B: 7 queries,8443,0.8767
+localhost,3,PostgreSQL B: 7 queries,5810,0.9431
+localhost,3,PostgreSQL B: 7 queries,7047,0.9017
+localhost,3,PostgreSQL B: 7 queries,3443,0.8975
+localhost,3,PostgreSQL B: 7 queries,9846,0.8921
+localhost,3,PostgreSQL B: 7 queries,6114,0.8473
+localhost,3,PostgreSQL B: 7 queries,218,0.883
+localhost,3,PostgreSQL B: 7 queries,10388,0.8585
+localhost,3,PostgreSQL B: 7 queries,670,0.8887
+localhost,3,PostgreSQL B: 7 queries,3282,0.8751
+localhost,3,PostgreSQL B: 7 queries,2970,0.9069
+localhost,3,PostgreSQL B: 7 queries,6684,0.8958
+localhost,3,PostgreSQL B: 7 queries,7438,0.9036
+localhost,3,PostgreSQL B: 7 queries,5892,0.9018
+localhost,3,PostgreSQL B: 7 queries,6066,0.8733
+localhost,3,PostgreSQL B: 7 queries,6641,0.9012
+localhost,3,PostgreSQL B: 7 queries,3197,0.8356
+localhost,3,PostgreSQL B: 7 queries,9911,0.9003
+localhost,3,PostgreSQL B: 7 queries,2705,0.8623
+localhost,3,PostgreSQL B: 7 queries,1554,0.8625
+localhost,3,PostgreSQL B: 7 queries,8398,0.8663
+localhost,3,PostgreSQL B: 7 queries,253,0.8946
+localhost,3,PostgreSQL B: 7 queries,5304,0.8806
+localhost,3,PostgreSQL B: 7 queries,1390,0.901
+localhost,3,PostgreSQL B: 7 queries,10312,0.8428
+localhost,3,PostgreSQL B: 7 queries,6628,0.8261
+localhost,3,PostgreSQL B: 7 queries,9334,0.9509
+localhost,3,PostgreSQL B: 7 queries,9824,0.864
+localhost,3,PostgreSQL B: 7 queries,3129,0.8477
+localhost,3,PostgreSQL B: 7 queries,8263,0.8722
+localhost,3,PostgreSQL B: 7 queries,9579,0.9018
+localhost,3,PostgreSQL B: 7 queries,5587,0.912
+localhost,3,PostgreSQL B: 7 queries,4232,0.9518
+localhost,3,PostgreSQL B: 7 queries,4580,0.9078
+localhost,3,PostgreSQL B: 7 queries,1906,0.9403
+localhost,3,PostgreSQL B: 7 queries,2623,0.8772
+localhost,3,PostgreSQL C: nested json_agg,8425,0.3209
+localhost,3,PostgreSQL C: nested json_agg,9175,0.1831
+localhost,3,PostgreSQL C: nested json_agg,4203,0.1638
+localhost,3,PostgreSQL C: nested json_agg,5107,0.2289
+localhost,3,PostgreSQL C: nested json_agg,10999,0.1644
+localhost,3,PostgreSQL C: nested json_agg,6246,0.1789
+localhost,3,PostgreSQL C: nested json_agg,9985,0.1946
+localhost,3,PostgreSQL C: nested json_agg,3412,0.2674
+localhost,3,PostgreSQL C: nested json_agg,4989,0.1867
+localhost,3,PostgreSQL C: nested json_agg,2313,0.2713
+localhost,3,PostgreSQL C: nested json_agg,8925,0.17
+localhost,3,PostgreSQL C: nested json_agg,8589,0.206
+localhost,3,PostgreSQL C: nested json_agg,4473,0.2367
+localhost,3,PostgreSQL C: nested json_agg,9388,0.1877
+localhost,3,PostgreSQL C: nested json_agg,8154,0.1754
+localhost,3,PostgreSQL C: nested json_agg,3293,0.1905
+localhost,3,PostgreSQL C: nested json_agg,6736,0.184
+localhost,3,PostgreSQL C: nested json_agg,8781,0.1828
+localhost,3,PostgreSQL C: nested json_agg,1873,0.2137
+localhost,3,PostgreSQL C: nested json_agg,8245,0.1787
+localhost,3,PostgreSQL C: nested json_agg,81,0.3531
+localhost,3,PostgreSQL C: nested json_agg,9917,0.338
+localhost,3,PostgreSQL C: nested json_agg,6178,0.1944
+localhost,3,PostgreSQL C: nested json_agg,455,0.2254
+localhost,3,PostgreSQL C: nested json_agg,8820,0.1687
+localhost,3,PostgreSQL C: nested json_agg,721,0.2366
+localhost,3,PostgreSQL C: nested json_agg,8455,0.1982
+localhost,3,PostgreSQL C: nested json_agg,6564,0.1911
+localhost,3,PostgreSQL C: nested json_agg,8913,0.1708
+localhost,3,PostgreSQL C: nested json_agg,9223,0.2903
+localhost,3,PostgreSQL C: nested json_agg,1998,0.1721
+localhost,3,PostgreSQL C: nested json_agg,8046,0.2328
+localhost,3,PostgreSQL C: nested json_agg,1528,0.3601
+localhost,3,PostgreSQL C: nested json_agg,2733,0.1895
+localhost,3,PostgreSQL C: nested json_agg,1080,0.1782
+localhost,3,PostgreSQL C: nested json_agg,8827,0.1792
+localhost,3,PostgreSQL C: nested json_agg,7520,0.1659
+localhost,3,PostgreSQL C: nested json_agg,6780,0.3303
+localhost,3,PostgreSQL C: nested json_agg,6622,0.2043
+localhost,3,PostgreSQL C: nested json_agg,4411,0.1881
+localhost,3,PostgreSQL C: nested json_agg,4036,0.1815
+localhost,3,PostgreSQL C: nested json_agg,7753,0.3495
+localhost,3,PostgreSQL C: nested json_agg,8078,0.1818
+localhost,3,PostgreSQL C: nested json_agg,2081,0.1925
+localhost,3,PostgreSQL C: nested json_agg,5566,0.3222
+localhost,3,PostgreSQL C: nested json_agg,7106,0.1761
+localhost,3,PostgreSQL C: nested json_agg,7808,0.2072
+localhost,3,PostgreSQL C: nested json_agg,8602,0.2499
+localhost,3,PostgreSQL C: nested json_agg,5198,0.1784
+localhost,3,PostgreSQL C: nested json_agg,1780,0.3755
+localhost,3,PostgreSQL C: nested json_agg,3137,0.2671
+localhost,3,PostgreSQL C: nested json_agg,6874,0.1711
+localhost,3,PostgreSQL C: nested json_agg,10124,0.165
+localhost,3,PostgreSQL C: nested json_agg,482,0.1758
+localhost,3,PostgreSQL C: nested json_agg,4264,0.1657
+localhost,3,PostgreSQL C: nested json_agg,2122,0.204
+localhost,3,PostgreSQL C: nested json_agg,374,0.2321
+localhost,3,PostgreSQL C: nested json_agg,584,0.1827
+localhost,3,PostgreSQL C: nested json_agg,3181,0.1789
+localhost,3,PostgreSQL C: nested json_agg,2549,0.2689
+localhost,3,PostgreSQL C: nested json_agg,3724,0.1753
+localhost,3,PostgreSQL C: nested json_agg,194,0.1804
+localhost,3,PostgreSQL C: nested json_agg,4655,0.1881
+localhost,3,PostgreSQL C: nested json_agg,5277,0.2065
+localhost,3,PostgreSQL C: nested json_agg,5823,0.1895
+localhost,3,PostgreSQL C: nested json_agg,4006,0.1965
+localhost,3,PostgreSQL C: nested json_agg,10155,0.1673
+localhost,3,PostgreSQL C: nested json_agg,8173,0.3107
+localhost,3,PostgreSQL C: nested json_agg,1719,0.1626
+localhost,3,PostgreSQL C: nested json_agg,8187,0.1904
+localhost,3,PostgreSQL C: nested json_agg,9540,0.1755
+localhost,3,PostgreSQL C: nested json_agg,2012,0.2987
+localhost,3,PostgreSQL C: nested json_agg,8364,0.2005
+localhost,3,PostgreSQL C: nested json_agg,10216,0.1629
+localhost,3,PostgreSQL C: nested json_agg,4106,0.2079
+localhost,3,PostgreSQL C: nested json_agg,3240,0.199
+localhost,3,PostgreSQL C: nested json_agg,8690,0.2876
+localhost,3,PostgreSQL C: nested json_agg,7157,0.2779
+localhost,3,PostgreSQL C: nested json_agg,381,0.1982
+localhost,3,PostgreSQL C: nested json_agg,6157,0.1775
+localhost,3,PostgreSQL C: nested json_agg,10372,0.1669
+localhost,3,PostgreSQL C: nested json_agg,6774,0.1906
+localhost,3,PostgreSQL C: nested json_agg,8673,0.2255
+localhost,3,PostgreSQL C: nested json_agg,10090,0.15
+localhost,3,PostgreSQL C: nested json_agg,2617,0.177
+localhost,3,PostgreSQL C: nested json_agg,8818,0.1985
+localhost,3,PostgreSQL C: nested json_agg,3347,0.174
+localhost,3,PostgreSQL C: nested json_agg,10344,0.1656
+localhost,3,PostgreSQL C: nested json_agg,8750,0.1825
+localhost,3,PostgreSQL C: nested json_agg,10461,0.1682
+localhost,3,PostgreSQL C: nested json_agg,3578,0.2031
+localhost,3,PostgreSQL C: nested json_agg,8678,0.2728
+localhost,3,PostgreSQL C: nested json_agg,3542,0.1869
+localhost,3,PostgreSQL C: nested json_agg,8896,0.1797
+localhost,3,PostgreSQL C: nested json_agg,10023,0.165
+localhost,3,PostgreSQL C: nested json_agg,9612,0.1806
+localhost,3,PostgreSQL C: nested json_agg,2236,0.1833
+localhost,3,PostgreSQL C: nested json_agg,3812,0.1806
+localhost,3,PostgreSQL C: nested json_agg,10288,0.1621
+localhost,3,PostgreSQL C: nested json_agg,5696,0.1755
+localhost,3,PostgreSQL C: nested json_agg,2968,0.283
+localhost,3,PostgreSQL C: nested json_agg,5176,0.174
+localhost,3,PostgreSQL C: nested json_agg,9882,0.3615
+localhost,3,PostgreSQL C: nested json_agg,5161,0.1737
+localhost,3,PostgreSQL C: nested json_agg,3190,0.1617
+localhost,3,PostgreSQL C: nested json_agg,3575,0.173
+localhost,3,PostgreSQL C: nested json_agg,3188,0.1717
+localhost,3,PostgreSQL C: nested json_agg,1587,0.1801
+localhost,3,PostgreSQL C: nested json_agg,2195,0.1801
+localhost,3,PostgreSQL C: nested json_agg,3922,0.2373
+localhost,3,PostgreSQL C: nested json_agg,2172,0.1938
+localhost,3,PostgreSQL C: nested json_agg,1445,0.1941
+localhost,3,PostgreSQL C: nested json_agg,4252,0.1873
+localhost,3,PostgreSQL C: nested json_agg,6356,0.2785
+localhost,3,PostgreSQL C: nested json_agg,1590,0.169
+localhost,3,PostgreSQL C: nested json_agg,7124,0.1727
+localhost,3,PostgreSQL C: nested json_agg,6908,0.1931
+localhost,3,PostgreSQL C: nested json_agg,8902,0.1885
+localhost,3,PostgreSQL C: nested json_agg,2065,0.1743
+localhost,3,PostgreSQL C: nested json_agg,3288,0.1872
+localhost,3,PostgreSQL C: nested json_agg,6600,0.1991
+localhost,3,PostgreSQL C: nested json_agg,10290,0.161
+localhost,3,PostgreSQL C: nested json_agg,291,0.281
+localhost,3,PostgreSQL C: nested json_agg,1574,0.2029
+localhost,3,PostgreSQL C: nested json_agg,3293,0.1882
+localhost,3,PostgreSQL C: nested json_agg,9338,0.2127
+localhost,3,PostgreSQL C: nested json_agg,5859,0.2138
+localhost,3,PostgreSQL C: nested json_agg,5920,0.2071
+localhost,3,PostgreSQL C: nested json_agg,1891,0.2718
+localhost,3,PostgreSQL C: nested json_agg,8286,0.1762
+localhost,3,PostgreSQL C: nested json_agg,10399,0.165
+localhost,3,PostgreSQL C: nested json_agg,5628,0.2149
+localhost,3,PostgreSQL C: nested json_agg,8238,0.2803
+localhost,3,PostgreSQL C: nested json_agg,3097,0.1947
+localhost,3,PostgreSQL C: nested json_agg,1156,0.1995
+localhost,3,PostgreSQL C: nested json_agg,7899,0.1789
+localhost,3,PostgreSQL C: nested json_agg,1740,0.1916
+localhost,3,PostgreSQL C: nested json_agg,399,0.1905
+localhost,3,PostgreSQL C: nested json_agg,614,0.188
+localhost,3,PostgreSQL C: nested json_agg,9039,0.1732
+localhost,3,PostgreSQL C: nested json_agg,10050,0.1632
+localhost,3,PostgreSQL C: nested json_agg,8435,0.1927
+localhost,3,PostgreSQL C: nested json_agg,9319,0.1663
+localhost,3,PostgreSQL C: nested json_agg,7886,0.1681
+localhost,3,PostgreSQL C: nested json_agg,2402,0.1975
+localhost,3,PostgreSQL C: nested json_agg,3106,0.1833
+localhost,3,PostgreSQL C: nested json_agg,3024,0.1632
+localhost,3,PostgreSQL C: nested json_agg,1884,0.1902
+localhost,3,PostgreSQL C: nested json_agg,3341,0.1902
+localhost,3,PostgreSQL C: nested json_agg,2827,0.2017
+localhost,3,PostgreSQL C: nested json_agg,2590,0.168
+localhost,3,PostgreSQL C: nested json_agg,4639,0.1722
+localhost,3,PostgreSQL C: nested json_agg,11026,0.1664
+localhost,3,PostgreSQL C: nested json_agg,1561,0.1653
+localhost,3,PostgreSQL C: nested json_agg,9500,0.1743
+localhost,3,PostgreSQL C: nested json_agg,1015,0.1864
+localhost,3,PostgreSQL C: nested json_agg,2203,0.3232
+localhost,3,PostgreSQL C: nested json_agg,7571,0.2052
+localhost,3,PostgreSQL C: nested json_agg,1272,0.2018
+localhost,3,PostgreSQL C: nested json_agg,1585,0.1819
+localhost,3,PostgreSQL C: nested json_agg,5355,0.3071
+localhost,3,PostgreSQL C: nested json_agg,6405,0.2429
+localhost,3,PostgreSQL C: nested json_agg,7651,0.1894
+localhost,3,PostgreSQL C: nested json_agg,6987,0.1924
+localhost,3,PostgreSQL C: nested json_agg,8443,0.1865
+localhost,3,PostgreSQL C: nested json_agg,5810,0.2705
+localhost,3,PostgreSQL C: nested json_agg,7047,0.1924
+localhost,3,PostgreSQL C: nested json_agg,3443,0.1591
+localhost,3,PostgreSQL C: nested json_agg,9846,0.1807
+localhost,3,PostgreSQL C: nested json_agg,6114,0.1747
+localhost,3,PostgreSQL C: nested json_agg,218,0.1998
+localhost,3,PostgreSQL C: nested json_agg,10388,0.1585
+localhost,3,PostgreSQL C: nested json_agg,670,0.1803
+localhost,3,PostgreSQL C: nested json_agg,3282,0.1615
+localhost,3,PostgreSQL C: nested json_agg,2970,0.1889
+localhost,3,PostgreSQL C: nested json_agg,6684,0.1732
+localhost,3,PostgreSQL C: nested json_agg,7438,0.1899
+localhost,3,PostgreSQL C: nested json_agg,5892,0.1977
+localhost,3,PostgreSQL C: nested json_agg,6066,0.1943
+localhost,3,PostgreSQL C: nested json_agg,6641,0.2072
+localhost,3,PostgreSQL C: nested json_agg,3197,0.1778
+localhost,3,PostgreSQL C: nested json_agg,9911,0.1828
+localhost,3,PostgreSQL C: nested json_agg,2705,0.1935
+localhost,3,PostgreSQL C: nested json_agg,1554,0.175
+localhost,3,PostgreSQL C: nested json_agg,8398,0.1597
+localhost,3,PostgreSQL C: nested json_agg,253,0.1702
+localhost,3,PostgreSQL C: nested json_agg,5304,0.1655
+localhost,3,PostgreSQL C: nested json_agg,1390,0.1999
+localhost,3,PostgreSQL C: nested json_agg,10312,0.1544
+localhost,3,PostgreSQL C: nested json_agg,6628,0.1799
+localhost,3,PostgreSQL C: nested json_agg,9334,0.3518
+localhost,3,PostgreSQL C: nested json_agg,9824,0.1663
+localhost,3,PostgreSQL C: nested json_agg,3129,0.1965
+localhost,3,PostgreSQL C: nested json_agg,8263,0.22
+localhost,3,PostgreSQL C: nested json_agg,9579,0.1751
+localhost,3,PostgreSQL C: nested json_agg,5587,0.1946
+localhost,3,PostgreSQL C: nested json_agg,4232,0.2662
+localhost,3,PostgreSQL C: nested json_agg,4580,0.2705
+localhost,3,PostgreSQL C: nested json_agg,1906,0.2209
+localhost,3,PostgreSQL C: nested json_agg,2623,0.1858
+localhost,3,MongoDB: 3 reads,8425,0.6035
+localhost,3,MongoDB: 3 reads,9175,0.5535
+localhost,3,MongoDB: 3 reads,4203,0.5367
+localhost,3,MongoDB: 3 reads,5107,0.5581
+localhost,3,MongoDB: 3 reads,10999,0.5606
+localhost,3,MongoDB: 3 reads,6246,0.556
+localhost,3,MongoDB: 3 reads,9985,0.612
+localhost,3,MongoDB: 3 reads,3412,0.5901
+localhost,3,MongoDB: 3 reads,4989,0.5296
+localhost,3,MongoDB: 3 reads,2313,0.5944
+localhost,3,MongoDB: 3 reads,8925,0.5758
+localhost,3,MongoDB: 3 reads,8589,0.5621
+localhost,3,MongoDB: 3 reads,4473,0.5495
+localhost,3,MongoDB: 3 reads,9388,0.5317
+localhost,3,MongoDB: 3 reads,8154,0.5254
+localhost,3,MongoDB: 3 reads,3293,0.5293
+localhost,3,MongoDB: 3 reads,6736,0.5289
+localhost,3,MongoDB: 3 reads,8781,0.5479
+localhost,3,MongoDB: 3 reads,1873,0.5333
+localhost,3,MongoDB: 3 reads,8245,0.5272
+localhost,3,MongoDB: 3 reads,81,0.6149
+localhost,3,MongoDB: 3 reads,9917,0.7079
+localhost,3,MongoDB: 3 reads,6178,0.547
+localhost,3,MongoDB: 3 reads,455,0.5961
+localhost,3,MongoDB: 3 reads,8820,0.5795
+localhost,3,MongoDB: 3 reads,721,0.5647
+localhost,3,MongoDB: 3 reads,8455,0.535
+localhost,3,MongoDB: 3 reads,6564,0.5435
+localhost,3,MongoDB: 3 reads,8913,0.548
+localhost,3,MongoDB: 3 reads,9223,0.5746
+localhost,3,MongoDB: 3 reads,1998,0.5496
+localhost,3,MongoDB: 3 reads,8046,0.5678
+localhost,3,MongoDB: 3 reads,1528,0.6478
+localhost,3,MongoDB: 3 reads,2733,0.5319
+localhost,3,MongoDB: 3 reads,1080,0.5328
+localhost,3,MongoDB: 3 reads,8827,0.5798
+localhost,3,MongoDB: 3 reads,7520,0.5305
+localhost,3,MongoDB: 3 reads,6780,0.6026
+localhost,3,MongoDB: 3 reads,6622,0.5553
+localhost,3,MongoDB: 3 reads,4411,0.5437
+localhost,3,MongoDB: 3 reads,4036,0.5409
+localhost,3,MongoDB: 3 reads,7753,0.6184
+localhost,3,MongoDB: 3 reads,8078,0.5151
+localhost,3,MongoDB: 3 reads,2081,0.5283
+localhost,3,MongoDB: 3 reads,5566,0.5852
+localhost,3,MongoDB: 3 reads,7106,0.5357
+localhost,3,MongoDB: 3 reads,7808,0.5417
+localhost,3,MongoDB: 3 reads,8602,0.555
+localhost,3,MongoDB: 3 reads,5198,0.5258
+localhost,3,MongoDB: 3 reads,1780,0.6227
+localhost,3,MongoDB: 3 reads,3137,0.5758
+localhost,3,MongoDB: 3 reads,6874,0.5626
+localhost,3,MongoDB: 3 reads,10124,0.5456
+localhost,3,MongoDB: 3 reads,482,0.5532
+localhost,3,MongoDB: 3 reads,4264,0.5518
+localhost,3,MongoDB: 3 reads,2122,0.5579
+localhost,3,MongoDB: 3 reads,374,0.5468
+localhost,3,MongoDB: 3 reads,584,0.5522
+localhost,3,MongoDB: 3 reads,3181,0.5268
+localhost,3,MongoDB: 3 reads,2549,0.581
+localhost,3,MongoDB: 3 reads,3724,0.5418
+localhost,3,MongoDB: 3 reads,194,0.5233
+localhost,3,MongoDB: 3 reads,4655,0.5138
+localhost,3,MongoDB: 3 reads,5277,0.5425
+localhost,3,MongoDB: 3 reads,5823,0.5175
+localhost,3,MongoDB: 3 reads,4006,0.5982
+localhost,3,MongoDB: 3 reads,10155,0.5082
+localhost,3,MongoDB: 3 reads,8173,0.6134
+localhost,3,MongoDB: 3 reads,1719,0.534
+localhost,3,MongoDB: 3 reads,8187,0.5377
+localhost,3,MongoDB: 3 reads,9540,0.5115
+localhost,3,MongoDB: 3 reads,2012,0.5532
+localhost,3,MongoDB: 3 reads,8364,0.538
+localhost,3,MongoDB: 3 reads,10216,0.5212
+localhost,3,MongoDB: 3 reads,4106,0.5218
+localhost,3,MongoDB: 3 reads,3240,0.5108
+localhost,3,MongoDB: 3 reads,8690,0.5956
+localhost,3,MongoDB: 3 reads,7157,0.579
+localhost,3,MongoDB: 3 reads,381,0.5249
+localhost,3,MongoDB: 3 reads,6157,0.5203
+localhost,3,MongoDB: 3 reads,10372,0.5054
+localhost,3,MongoDB: 3 reads,6774,0.5692
+localhost,3,MongoDB: 3 reads,8673,0.5782
+localhost,3,MongoDB: 3 reads,10090,0.5333
+localhost,3,MongoDB: 3 reads,2617,0.5281
+localhost,3,MongoDB: 3 reads,8818,0.541
+localhost,3,MongoDB: 3 reads,3347,0.5302
+localhost,3,MongoDB: 3 reads,10344,0.5295
+localhost,3,MongoDB: 3 reads,8750,0.5263
+localhost,3,MongoDB: 3 reads,10461,0.5285
+localhost,3,MongoDB: 3 reads,3578,0.5392
+localhost,3,MongoDB: 3 reads,8678,0.5817
+localhost,3,MongoDB: 3 reads,3542,0.5339
+localhost,3,MongoDB: 3 reads,8896,0.5427
+localhost,3,MongoDB: 3 reads,10023,0.5389
+localhost,3,MongoDB: 3 reads,9612,0.5828
+localhost,3,MongoDB: 3 reads,2236,0.6404
+localhost,3,MongoDB: 3 reads,3812,0.6281
+localhost,3,MongoDB: 3 reads,10288,0.6187
+localhost,3,MongoDB: 3 reads,5696,0.5646
+localhost,3,MongoDB: 3 reads,2968,0.6172
+localhost,3,MongoDB: 3 reads,5176,0.5565
+localhost,3,MongoDB: 3 reads,9882,0.65
+localhost,3,MongoDB: 3 reads,5161,0.5629
+localhost,3,MongoDB: 3 reads,3190,0.5286
+localhost,3,MongoDB: 3 reads,3575,0.538
+localhost,3,MongoDB: 3 reads,3188,0.5672
+localhost,3,MongoDB: 3 reads,1587,0.529
+localhost,3,MongoDB: 3 reads,2195,0.5258
+localhost,3,MongoDB: 3 reads,3922,0.5563
+localhost,3,MongoDB: 3 reads,2172,0.53
+localhost,3,MongoDB: 3 reads,1445,0.5592
+localhost,3,MongoDB: 3 reads,4252,0.5381
+localhost,3,MongoDB: 3 reads,6356,0.5767
+localhost,3,MongoDB: 3 reads,1590,0.5384
+localhost,3,MongoDB: 3 reads,7124,0.5215
+localhost,3,MongoDB: 3 reads,6908,0.5355
+localhost,3,MongoDB: 3 reads,8902,0.5367
+localhost,3,MongoDB: 3 reads,2065,0.5107
+localhost,3,MongoDB: 3 reads,3288,0.5218
+localhost,3,MongoDB: 3 reads,6600,0.5514
+localhost,3,MongoDB: 3 reads,10290,0.5192
+localhost,3,MongoDB: 3 reads,291,0.5852
+localhost,3,MongoDB: 3 reads,1574,0.557
+localhost,3,MongoDB: 3 reads,3293,0.5496
+localhost,3,MongoDB: 3 reads,9338,0.5529
+localhost,3,MongoDB: 3 reads,5859,0.5568
+localhost,3,MongoDB: 3 reads,5920,0.5661
+localhost,3,MongoDB: 3 reads,1891,0.5771
+localhost,3,MongoDB: 3 reads,8286,0.5188
+localhost,3,MongoDB: 3 reads,10399,0.5214
+localhost,3,MongoDB: 3 reads,5628,0.5438
+localhost,3,MongoDB: 3 reads,8238,0.58
+localhost,3,MongoDB: 3 reads,3097,0.5166
+localhost,3,MongoDB: 3 reads,1156,0.5322
+localhost,3,MongoDB: 3 reads,7899,0.5126
+localhost,3,MongoDB: 3 reads,1740,0.5351
+localhost,3,MongoDB: 3 reads,399,0.5243
+localhost,3,MongoDB: 3 reads,614,0.5754
+localhost,3,MongoDB: 3 reads,9039,0.5206
+localhost,3,MongoDB: 3 reads,10050,0.5481
+localhost,3,MongoDB: 3 reads,8435,0.5511
+localhost,3,MongoDB: 3 reads,9319,0.5527
+localhost,3,MongoDB: 3 reads,7886,0.5347
+localhost,3,MongoDB: 3 reads,2402,0.5411
+localhost,3,MongoDB: 3 reads,3106,0.5276
+localhost,3,MongoDB: 3 reads,3024,0.5178
+localhost,3,MongoDB: 3 reads,1884,0.5673
+localhost,3,MongoDB: 3 reads,3341,0.526
+localhost,3,MongoDB: 3 reads,2827,0.5536
+localhost,3,MongoDB: 3 reads,2590,0.5859
+localhost,3,MongoDB: 3 reads,4639,0.5696
+localhost,3,MongoDB: 3 reads,11026,0.5863
+localhost,3,MongoDB: 3 reads,1561,0.5486
+localhost,3,MongoDB: 3 reads,9500,0.5529
+localhost,3,MongoDB: 3 reads,1015,0.5347
+localhost,3,MongoDB: 3 reads,2203,0.49
+localhost,3,MongoDB: 3 reads,7571,0.4401
+localhost,3,MongoDB: 3 reads,1272,0.4505
+localhost,3,MongoDB: 3 reads,1585,0.4366
+localhost,3,MongoDB: 3 reads,5355,0.4943
+localhost,3,MongoDB: 3 reads,6405,0.4827
+localhost,3,MongoDB: 3 reads,7651,0.4485
+localhost,3,MongoDB: 3 reads,6987,0.443
+localhost,3,MongoDB: 3 reads,8443,0.4562
+localhost,3,MongoDB: 3 reads,5810,0.4695
+localhost,3,MongoDB: 3 reads,7047,0.4328
+localhost,3,MongoDB: 3 reads,3443,0.4092
+localhost,3,MongoDB: 3 reads,9846,0.4366
+localhost,3,MongoDB: 3 reads,6114,0.424
+localhost,3,MongoDB: 3 reads,218,0.4466
+localhost,3,MongoDB: 3 reads,10388,0.4259
+localhost,3,MongoDB: 3 reads,670,0.4248
+localhost,3,MongoDB: 3 reads,3282,0.4956
+localhost,3,MongoDB: 3 reads,2970,0.5382
+localhost,3,MongoDB: 3 reads,6684,0.5825
+localhost,3,MongoDB: 3 reads,7438,0.5236
+localhost,3,MongoDB: 3 reads,5892,0.5447
+localhost,3,MongoDB: 3 reads,6066,0.5544
+localhost,3,MongoDB: 3 reads,6641,0.5355
+localhost,3,MongoDB: 3 reads,3197,0.5262
+localhost,3,MongoDB: 3 reads,9911,0.5408
+localhost,3,MongoDB: 3 reads,2705,0.5403
+localhost,3,MongoDB: 3 reads,1554,0.5228
+localhost,3,MongoDB: 3 reads,8398,0.5131
+localhost,3,MongoDB: 3 reads,253,0.5294
+localhost,3,MongoDB: 3 reads,5304,0.5369
+localhost,3,MongoDB: 3 reads,1390,0.5478
+localhost,3,MongoDB: 3 reads,10312,0.5347
+localhost,3,MongoDB: 3 reads,6628,0.5433
+localhost,3,MongoDB: 3 reads,9334,0.6395
+localhost,3,MongoDB: 3 reads,9824,0.5344
+localhost,3,MongoDB: 3 reads,3129,0.5607
+localhost,3,MongoDB: 3 reads,8263,0.5669
+localhost,3,MongoDB: 3 reads,9579,0.5262
+localhost,3,MongoDB: 3 reads,5587,0.553
+localhost,3,MongoDB: 3 reads,4232,0.5667
+localhost,3,MongoDB: 3 reads,4580,0.5486
+localhost,3,MongoDB: 3 reads,1906,0.531
+localhost,3,MongoDB: 3 reads,2623,0.5294

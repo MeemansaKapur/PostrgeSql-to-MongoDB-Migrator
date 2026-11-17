@@ -1,0 +1,7 @@
+query,postgres_p50,postgres_p95,postgres_mean,mongodb_p50,mongodb_p95,mongodb_mean,p50_change_pct
+Q1 customer 360,0.26,0.369,0.278,0.365,0.412,0.362,-40.4
+Q2 account statement,0.13,0.153,0.132,0.211,0.251,0.214,-62.3
+Q3 loan + schedule,0.159,0.199,0.161,0.201,0.235,0.203,-26.4
+Q4 deposits per branch,1.72,1.844,1.72,4.63,4.922,4.649,-169.2
+Q5 monthly volume by type,8.16,8.495,8.175,11.899,14.675,12.004,-45.8
+Q6 top 10 customers,6.089,6.251,6.091,12.141,12.452,12.176,-99.4
